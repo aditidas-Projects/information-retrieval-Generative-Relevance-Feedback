@@ -1,0 +1,306 @@
+{
+    "query": {
+        "0": [
+            "Do goldfish continue to grow throughout their lives?",
+            "How big do goldfish typically grow?",
+            "What are the factors that influence the growth rate of goldfish?",
+            "Do different goldfish breeds have different growth patterns?",
+            "Can goldfish be stunted if they are kept in a small tank?"
+        ],
+        "1": [
+            "What are the pros and cons of Wi-Fi and Bluetooth?",
+            "In what situations is Wi-Fi the better option than Bluetooth?",
+            "When is Bluetooth more advantageous than Wi-Fi?",
+            "Are there any health concerns associated with using Wi-Fi or Bluetooth?",
+            "How will the future development of Wi-Fi and Bluetooth impact our lives?"
+        ],
+        "2": [
+            "What were the underlying factors that led the US to join World War I?",
+            "How did public opinion in the US evolve regarding World War I?",
+            "What role did President Woodrow Wilson play in the US' decision to enter the war?",
+            "What were the consequences of the US joining World War I?",
+            "How did World War I impact the US economy and society?"
+        ],
+        "3": [
+            "Can you provide a simple explanation of a declaratory judgment and its legal implications?",
+            "What are the different types of declaratory judgments?",
+            "When might someone seek a declaratory judgment?",
+            "What are the benefits and drawbacks of seeking a declaratory judgment?",
+            "How does a declaratory judgment differ from other legal remedies?"
+        ],
+        "4": [
+            "What are the potential causes of right pelvic pain experienced by women?",
+            "What diagnostic tests are available to identify the source of right pelvic pain?",
+            "What are the treatment options for women with right pelvic pain?",
+            "How can right pelvic pain be prevented?",
+            "What are some resources available for women with right pelvic pain?"
+        ],
+        "5": [
+            "What are the social factors that have a significant impact on health outcomes?",
+            "How does income inequality affect health outcomes?",
+            "What role does education play in promoting health?",
+            "How do social support networks impact health?",
+            "What can be done to address the social determinants of health?"
+        ],
+        "6": [
+            "Is Legionella pneumophila a bacterium that can cause pneumonia?",
+            "How is Legionella pneumophila spread?",
+            "Who is at risk for Legionnaires' disease?",
+            "What are the symptoms of Legionnaires' disease?",
+            "How is Legionnaires' disease treated?"
+        ],
+        "7": [
+            "What is the current weather situation in Jamaica?",
+            "What is the forecast for the next few days?",
+            "What is the typical weather pattern for this time of year in Jamaica?",
+            "What are some popular activities to do in Jamaica when the weather is good?",
+            "What are some precautions to take when visiting Jamaica during the rainy season?"
+        ],
+        "8": [
+            "What are the different types of speech impairments that can occur as a result of cerebral palsy?",
+            "What are the causes of dysarthria in individuals with cerebral palsy?",
+            "What are the symptoms of dysarthria?",
+            "How is dysarthria diagnosed and treated?",
+            "What are some resources available for individuals with dysarthria?"
+        ],
+        "9": [
+            "Who was Robert Gray and what are some of his notable achievements?",
+            "What were Robert Gray's contributions to exploration and discovery?",
+            "What were the challenges and obstacles faced by Robert Gray during his explorations?",
+            "What is Robert Gray's legacy and how is he remembered today?",
+            "What resources are available to learn more about Robert Gray and his life?"
+        ],
+        "10": [
+            "What are some examples of food items that can be prepared using the sous vide cooking method?",
+            "What are the benefits of using the sous vide cooking method?",
+            "What are some tips for successfully cooking food sous vide?",
+            "What are some popular sous vide recipes?",
+            "What equipment is needed for sous vide cooking?"
+        ],
+        "11": [
+            "What is the typical lifespan of a common flea?",
+            "What are the different stages of the flea life cycle?",
+            "What are the factors that affect the lifespan of a flea?",
+            "How can fleas be controlled and prevented?",
+            "What are the health risks associated with flea infestations?"
+        ],
+        "12": [
+            "What can contour plowing reduce:",
+            "What are the environmental benefits of using contour plowing?",
+            "How does contour plowing improve soil health and fertility?",
+            "Can contour plowing help to increase crop yields?",
+            "What are the economic advantages of using contour plowing?"
+          ],
+          "13": [
+            "When was the Salvation Army founded?",
+            "Who were the founders of the Salvation Army?",
+            "What were the original goals and mission of the Salvation Army?",
+            "How has the Salvation Army evolved over time?",
+            "What are some of the major contributions made by the Salvation Army?"
+          ],
+          "14": [
+            "What is a definition of an active margin in geology?",
+            "What are the characteristics of an active margin?",
+            "Where are active margins typically found?",
+            "What are the geological processes that occur at active margins?",
+            "What are the economic and environmental implications of active margins?"
+          ],
+          "15": [
+            "What are the key differences between an RN (registered nurse) and a BSN (bachelor of science in nursing)?",
+            "What educational requirements are needed to become an RN and a BSN?",
+            "What are the different career opportunities available for RNs and BSNs?",
+            "What are the salary differences between RNs and BSNs?",
+            "Which career path is right for me: RN or BSN?"
+          ],
+          "16": [
+            "What is Medicare's definition of mechanical ventilation?",
+            "What are the different types of mechanical ventilation covered by Medicare?",
+            "What are the criteria for Medicare to cover mechanical ventilation?",
+            "How can I get Medicare coverage for mechanical ventilation?",
+            "What are the appeals process if Medicare denies my claim for mechanical ventilation?"
+          ],
+          "17": [
+            "How can I find the midsegment of a trapezoid?",
+            "What are the formulas and steps involved in finding the midsegment of a trapezoid?",
+            "Are there any online tools or calculators that can help me find the midsegment of a trapezoid?",
+            "What are some real-world applications of finding the midsegment of a trapezoid?",
+            "What are some common mistakes people make when trying to find the midsegment of a trapezoid?"
+          ],
+          "18": [
+            "What does an AML surveillance analyst do?",
+            "What are the responsibilities and duties of an AML surveillance analyst?",
+            "What skills and qualifications are needed to become an AML surveillance analyst?",
+            "What is the typical salary range for an AML surveillance analyst?",
+            "What is the job outlook for AML surveillance analysts?"
+          ],
+          "19": [
+            "What is the daily life of Thai people like?",
+            "What are the typical customs and traditions of Thai culture?",
+            "What is the role of family and community in Thai society?",
+            "What are some popular hobbies and activities enjoyed by Thai people?",
+            "What are some challenges faced by Thai people in their daily lives?"
+          ],
+          "20": [
+            "What is a SIGMET and what information does it contain?",
+            "How are SIGMETs issued and disseminated?",
+            "What are the different types of SIGMETs?",
+            "Who uses SIGMETs and how are they used?",
+            "What are some examples of significant weather events that have been the subject of SIGMETs?"
+          ],
+          "21": [
+            "What is the average cost of installing interior concrete flooring?",
+            "What factors affect the cost of installing interior concrete flooring?",
+            "What are the different types of finishes available for interior concrete flooring?",
+            "How long does it take to install interior concrete flooring?",
+            "What are the pros and cons of installing interior concrete flooring?"
+          ],
+          "22": [
+            "What is the most popular food in Switzerland?",
+            "What are some other popular Swiss dishes?",
+            "What are the ingredients and origins of these dishes?",
+            "What are some traditional Swiss food festivals?",
+            "Where can I find authentic Swiss food?"
+          ],
+          "23": [
+            "How are some sharks warm-blooded?",
+            "What are the adaptations that allow certain sharks to maintain a warm body temperature?",
+            "What are the advantages of being warm-blooded for sharks?",
+            "What are the disadvantages of being warm-blooded for sharks?",
+            "What are some examples of warm-blooded sharks?"
+          ],
+          "24": [
+            "What are the different types of durable medical equipment?",
+            "What are the criteria for durable medical equipment to be covered by insurance?",
+            "How do I obtain durable medical equipment?",
+            "What are the proper care and maintenance instructions for durable medical equipment?",
+            "What are the environmental considerations of using durable medical equipment?"
+          ],
+          "25": [
+            "How are exons different from introns?",
+            "What is the role of exons in protein synthesis?",
+            "How are exons identified and sequenced?",
+            "What are the implications of mutations in exons?",
+            "How is the study of exons contributing to our understanding of human disease?"
+          ],
+          "26": [
+            "What are the different types of visceral organs?",
+            "What are the functions of the visceral organs?",
+            "How are visceral organs protected?",
+            "What are some common diseases of the visceral organs?",
+            "How can we keep our visceral organs healthy?"
+          ],
+          "27": [
+            "What are the other components of the xylem?",
+            "What are the functions of the xylem?",
+            "How do tracheids transport water and minerals?",
+            "What are the differences between tracheids and vessels?",
+            "How are tracheids adapted for their function?"
+          ],
+          "28": [
+            "How does RSA work?",
+            "What are the advantages and disadvantages of using RSA?",
+            "What are some real-world applications of RSA?",
+            "How is RSA used in online security?",
+            "What are the future challenges and opportunities for RSA?"
+          ],
+          "29": [
+            "What are the goals and objectives of the Commonwealth of Independent States?",
+            "What are the relationships between the member states of the CIS?",
+            "What are the challenges and opportunities facing the CIS?",
+            "What is the role of the CIS in the international community?",
+            "How has the CIS evolved since its formation?"
+          ],
+          "30": [
+            "What are the symptoms of left ventricular hypertrophy?",
+            "How is left ventricular hypertrophy diagnosed?",
+            "What are the treatment options for left ventricular hypertrophy?",
+            "What are the long-term consequences of left ventricular hypertrophy?",
+            "How can left ventricular hypertrophy be prevented?"
+          ],
+          "31": [
+            "What are some examples of LPS laws?",
+            "How do LPS laws vary from state to state?",
+            "What are the legal challenges surrounding LPS laws?",
+            "What are the potential benefits and drawbacks of LPS laws?",
+            "What is the role of the courts in interpreting and enforcing LPS laws?"
+          ],
+          "32": [
+            "What are the beliefs and ideologies of the Three Percenters?",
+            "What are the activities of the Three Percenters?",
+            "What are the criticisms of the Three Percenters?",
+            "How have the Three Percenters responded to these criticisms?",
+            "What is the future of the Three Percenters?"
+          ],
+          "33": [
+            "What are the risk factors for military suicide?",
+            "What are the signs and symptoms of suicidal ideation in military personnel?",
+            "What are the resources available to help prevent military suicide?",
+            "What can individuals do to support veterans and active-duty personnel struggling with suicidal ideation?",
+            "What are the ethical considerations surrounding military suicide?"
+          ],
+          "34": [
+            "What are the ingredients in Theraderm products?",
+            "How do Theraderm products work?",
+            "Are there any side effects associated with using Theraderm products?",
+            "What are the customer reviews of Theraderm products?",
+            "Where can I purchase Theraderm products?"
+          ],
+          "35": [
+            "What is the dosage for Famvir?",
+            "What are the precautions and warnings for taking Famvir?",
+            "What are the potential interactions between Famvir and other medications?",
+            "What should I do if I miss a dose of Famvir?",
+            "How should I store Famvir?"
+          ],
+          "36": [
+            "What are the different anthropological perspectives on the environment?",
+            "How has the human relationship with the environment changed over time?",
+            "What are the cultural and social factors that influence our understanding of the environment?",
+            "How do anthropologists study the environment?",
+            "What are the ethical considerations involved in anthropological research on the environment?"
+          ],
+          "37": [
+            "What is the structure of an axon terminal?",
+            "What is the role of the axon terminal in neurotransmission?",
+            "What are the different types of synaptic vesicles found in axon terminals?",
+            "How are neurotransmitters released from axon terminals?",
+            "What are the factors that affect the release of neurotransmitters?"
+          ],
+          "38": [
+            "What is the official name of Charles de Gaulle Airport?",
+            "Where is Charles de Gaulle Airport located in relation to Paris?",
+            "How far is Charles de Gaulle Airport from the city center of Paris?",
+            "What are the different transportation options available for getting to Charles de Gaulle Airport from Paris?",
+            "What are the amenities and facilities available at Charles de Gaulle Airport?"
+          ],
+          "39": [
+            "What is the definition of a monotonic function?",
+            "What are some examples of non-monotonic functions?",
+            "How can you determine whether a function is monotonic?",
+            "What are the applications of monotonic functions in mathematics and science?",
+            "What are the properties of monotonic functions?"
+          ],
+          "40": [
+            "What are the different types of spruce trees?",
+            "Where do spruce trees typically grow?",
+            "What are the physical characteristics of spruce trees?",
+            "What are the uses of spruce trees?",
+            "What are some interesting facts about spruce trees?"
+          ],
+          "41": [
+            "What are the other physical properties of hydrogen?",
+            "What is the chemical formula for hydrogen?",
+            "How does hydrogen occur in nature?",
+            "What are some of the uses of hydrogen?",
+            "What are the potential risks and dangers associated with hydrogen?"
+          ],
+          "42": [
+            "What are the specific ingredients of a McDouble and a Double Cheeseburger?",
+            "What is the nutritional information for a McDouble and a Double Cheeseburger?",
+            "What are the differences in size and price between a McDouble and a Double Cheeseburger?",
+            "Which menu item is more popular, the McDouble or the Double Cheeseburger?",
+            "Why do some people prefer the McDouble to the Double Cheeseburger, and vice versa?"
+          ]
+    }
+  }
+  

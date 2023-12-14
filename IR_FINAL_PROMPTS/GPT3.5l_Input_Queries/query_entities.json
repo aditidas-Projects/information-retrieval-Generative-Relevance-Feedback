@@ -1,0 +1,347 @@
+{
+    "156493": {
+      "relevant_entities": [
+        "Goldfish",
+        "Tank size",
+        "Water quality",
+        "Nutrition"
+      ]
+    },
+    "1110199": {
+      "relevant_entities": [
+        "WiFi",
+        "Bluetooth",
+        "Frequency bands",
+        "Low-power connections"
+      ]
+    },
+    "1063750": {
+      "relevant_entities": [
+        "World War I",
+        "Germany",
+        "Submarine warfare",
+        "Zimmermann Telegram"
+      ]
+    },
+    "130510": {
+      "relevant_entities": [
+        "Declaratory judgments",
+        "Legal positions",
+        "Rights",
+        "Legal disputes"
+      ]
+    },
+    "489204": {
+      "relevant_entities": [
+        "Pelvic pain",
+        "Ovarian cysts",
+        "Appendicitis",
+        "Diagnosis"
+      ]
+    },
+    "573724": {
+      "relevant_entities": [
+        "Social determinants",
+        "Healthcare access",
+        "Economic status",
+        "Health inequalities"
+      ]
+    },
+    "168216": {
+      "relevant_entities": [
+        "Legionella pneumophila",
+        "Legionnaires' disease",
+        "Water systems",
+        "Preventive measures"
+      ]
+    },
+    "1133167": {
+      "relevant_entities": [
+        "Jamaica",
+        "Tropical climate",
+        "Altitude",
+        "Hurricane season"
+      ]
+    },
+    "527433": {
+      "relevant_entities": [
+        "Dysarthria",
+        "Cerebral palsy",
+        "Speech clarity",
+        "Communication devices"
+      ]
+    },
+    "1037798": {
+      "relevant_entities": [
+        "Robert Gray",
+        "Northwest coast",
+        "Exploration",
+        "Maritime fur trade"
+      ]
+    },
+    "915593": {
+        "relevant_entities": [
+        "Sous vide cooking",
+        "Vacuum-sealing",
+        "Precise water bath",
+        "Immersion circulators"
+        ]
+    },
+    "264014": {
+        "relevant_entities": [
+        "Flea life cycle",
+        "Egg stage",
+        "Pupa",
+        "Adult fleas"
+        ]
+    },
+    "1121402": {
+        "relevant_entities": [
+        "Contour plowing",
+        "Soil erosion",
+        "Water runoff",
+        "Soil fertility"
+        ]
+    },
+    "962179": {
+        "relevant_entities": [
+        "The Salvation Army",
+        "William Booth",
+        "Catherine Booth",
+        "Social services"
+        ]
+    },
+    "1117099": {
+        "relevant_entities": [
+        "Active margins",
+        "Tectonic activity",
+        "Convergent plate boundaries",
+        "Subduction zones"
+        ]
+    },
+    "148538": {
+        "relevant_entities": [
+        "RN (Registered Nurse)",
+        "BSN (Bachelor of Science in Nursing)",
+        "Associate's degree",
+        "Bachelor's degree"
+        ]
+    },
+    "451602": {
+        "relevant_entities": [
+        "Medicare",
+        "Mechanical ventilation",
+        "Respiratory failure",
+        "Healthcare coverage"
+        ]
+    },
+    "359349": {
+        "relevant_entities": [
+        "Midsegment",
+        "Trapezoid",
+        "Parallel sides",
+        "Geometry"
+        ]
+    },
+    "1115776": {
+        "relevant_entities": [
+        "AML (Anti-Money Laundering)",
+        "Surveillance analysts",
+        "Financial transactions",
+        "Regulations"
+        ]
+    },
+    "1112341": {
+        "relevant_entities": [
+        "Thai daily life",
+        "Buddhism",
+        "Thai cuisine",
+        "Festivals"
+        ]
+    },
+    "131843": {
+        "relevant_entities": [
+        "SIGMET alerts",
+        "Pilot safety",
+        "Weather phenomena",
+        "Flight route planning"
+        ]
+    },
+    "104861": {
+        "relevant_entities": [
+        "Interior concrete flooring",
+        "Durability",
+        "Design",
+        "Installation"
+        ]
+    },
+    "833860": {
+        "relevant_entities": [
+        "Swiss cuisine",
+        "Fondue",
+        "Raclette",
+        "Swiss chocolate"
+        ]
+    },
+    "207786": {
+        "relevant_entities": [
+        "Shark species",
+        "Regional endothermy",
+        "Great white shark",
+        "Thermal adaptation"
+        ]
+    },
+    "1114819": {
+        "relevant_entities": [
+        "Durable medical equipment",
+        "Wheelchairs",
+        "Hospital beds",
+        "Prosthetics"
+        ]
+    },
+    "183378": {
+        "relevant_entities": [
+        "Exons",
+        "DNA sequences",
+        "Gene expression",
+        "Splicing"
+        ]
+    },
+    "1106007": {
+        "relevant_entities": [
+        "Visceral anatomy",
+        "Internal organs",
+        "Body cavities",
+        "Visceral pain"
+        ]
+    },
+    "1124210": {
+        "relevant_entities": [
+        "Tracheids",
+        "Plant cells",
+        "Xylem tissue",
+        "Water transport"
+        ]
+    },
+    "490595": {
+        "relevant_entities": [
+        "RSA encryption",
+        "Public-key cryptography",
+        "Prime numbers",
+        "Digital communication"
+        ]
+    },
+    "1103812": {
+        "relevant_entities": [
+        "Commonwealth of Independent States",
+        "Former Soviet republics",
+        "Eurasia",
+        "Economic cooperation"
+        ]
+    },
+    "87181": {
+        "relevant_entities": [
+        "Left ventricular hypertrophy",
+        "Heart's left ventricle",
+        "High blood pressure",
+        "Imaging tests"
+        ]
+    },
+    "443396": {
+        "relevant_entities": [
+        "LPS laws",
+        "Lipopolysaccharides",
+        "Immune system",
+        "Inflammation"
+        ]
+    },
+    "1121709": {
+        "relevant_entities": [
+        "The Three Percenters movement",
+        "Constitutional rights",
+        "Government overreach",
+        "American Revolutionary War"
+        ]
+    },
+    "87452": {
+        "relevant_entities": [
+        "Military suicides",
+        "Combat stress",
+        "Mental health issues",
+        "Social isolation"
+        ]
+    },
+    "855410": {
+        "relevant_entities": [
+        "TheraDerm",
+        "Skincare product",
+        "Moisturizing",
+        "Skin conditions"
+        ]
+    },
+    "1114646": {
+        "relevant_entities": [
+        "Famvir",
+        "Prescription medication",
+        "Herpes simplex",
+        "Herpes zoster"
+        ]
+    },
+    "19335": {
+        "relevant_entities": [
+        "Anthropological study",
+        "Human interactions",
+        "Cultural impacts",
+        "Sustainable practices"
+        ]
+    },
+    "47923": {
+        "relevant_entities": [
+        "Axon terminals",
+        "Synaptic knobs",
+        "Nerve cells",
+        "Neurotransmitters"
+        ]
+    },
+    "405717": {
+        "relevant_entities": [
+        "Charles de Gaulle Airport",
+        "International airport",
+        "Paris, France",
+        "Airline services"
+        ]
+    },
+    "182539": {
+        "relevant_entities": [
+        "Monotonic functions",
+        "Mathematical analysis",
+        "Function behaviors",
+        "Engineering applications"
+        ]
+    },
+    "1113437": {
+        "relevant_entities": [
+        "Spruce trees",
+        "Coniferous evergreens",
+        "Timber production",
+        "Christmas trees"
+        ]
+    },
+    "1129237": {
+        "relevant_entities": [
+        "Hydrogen",
+        "Liquid state",
+        "Cryogenic liquid",
+        "Industrial applications"
+        ]
+    },
+    "146187": {
+        "relevant_entities": [
+        "McDouble",
+        "Double cheeseburger",
+        "McDonald's",
+        "Fast-food items"
+        ]
+    }                  
+  }
+  

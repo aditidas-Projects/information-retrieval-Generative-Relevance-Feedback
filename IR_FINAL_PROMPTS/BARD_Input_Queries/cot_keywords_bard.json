@@ -1,0 +1,600 @@
+{
+    "0": {
+      "relevant_keywords": [
+        "goldfish: The main subject of the query, referring to the small, domesticated fish.",
+        "growth: The specific aspect of goldfish that the query is interested in.",
+        "size: An important factor influencing goldfish growth and a potential answer to the query.",
+        "tank size: A key environmental factor directly impacting goldfish growth.",
+        "diet: Another crucial factor affecting growth, providing essential nutrients for development.",
+        "water quality: A vital aspect of the environment influencing goldfish health and growth.",
+        "oxygen levels: An essential element for respiration and growth, requiring proper maintenance.",
+        "temperature: An environmental factor influencing goldfish metabolism and growth rate.",
+        "lifespan: A potential answer to the query, affected by various factors like growth rate.",
+        "common goldfish: A specific type of goldfish to consider when researching growth patterns.",
+        "fancy goldfish: Another type of goldfish with potentially different growth characteristics.",
+        "stunting: A potential negative outcome of improper growth conditions.",
+        "overcrowding: An environmental factor that can negatively impact growth.",
+        "water changes: A necessary practice for maintaining water quality and supporting growth.",
+        "filtration: An essential component of a healthy environment, crucial for growth."
+      ]
+    },
+    "1": {
+      "relevant_keywords": [
+        "wifi: One of the two wireless technologies compared in the query.",
+        "bluetooth: The second wireless technology compared in the query.",
+        "wireless technology: The broader category encompassing both wifi and bluetooth.",
+        "range: A key feature compared between the two technologies, referring to the distance covered by their signals.",
+        "speed: Another important comparison point, indicating the data transfer rate of each technology.",
+        "security: A crucial factor for user privacy and data protection, relevant to both wifi and bluetooth.",
+        "data transfer: The core function of both technologies, enabling the exchange of information.",
+        "devices: The gadgets that utilize wifi and bluetooth functionalities.",
+        "connectivity: The broader concept of establishing a connection between devices, facilitated by both technologies.",
+        "internet access: One of the primary applications of wifi, providing online access through a wireless network.",
+        "audio streaming: A popular use case for both technologies, allowing for wireless transmission of audio signals.",
+        "file sharing: Another important application, enabling the exchange of data between devices.",
+        "mesh networks: A specific network type utilizing both wifi and bluetooth for broader coverage.",
+        "2.4GHz: The frequency band used by some wifi networks.",
+        "5GHz: Another frequency band used by some wifi networks, offering higher speeds."
+      ]
+    },
+    "2": {
+        "relevant_keywords": [
+        "us: The United States of America.",
+        "ww1: The First World War, also known as the Great War.",
+        "voluntary: Done without compulsion or force.",
+        "reasons: The justifications or motivations behind the US's decision to enter WW1.",
+        "lusitania sinking: A passenger ship sunk by a German U-boat in 1915, which contributed to the US's growing anti-German sentiment.",
+        "zimmerman telegram: A secret diplomatic message from Germany to Mexico, intercepted by the US, which proposed an alliance against the US.",
+        "unrestricted submarine warfare: Germany's policy of attacking any ship in the Atlantic, including neutral vessels, which triggered the US's entry into the war.",
+        "german aggression: Germany's actions, including the invasion of Belgium and the use of chemical weapons, which were seen by the US as violations of international law and morality.",
+        "moral obligation: The US's belief that it had a moral duty to help defend democracy and fight against tyranny.",
+        "protection of democracy: The US's desire to protect its own democratic system and prevent the spread of autocracy in Europe.",
+        "american interests: The US's economic and political interests in Europe, which were threatened by German expansionism.",
+        "public opinion: The widespread support among the American public for joining the war against Germany.",
+        "isolationism: The traditional US policy of avoiding involvement in foreign wars.",
+        "wilsonian ideals: The principles of US President Woodrow Wilson, such as self-determination and collective security, which influenced the US's decision to enter the war.",
+        "world war: A global military conflict involving multiple countries."
+        ]
+    },
+    "3": {
+        "relevant_keywords": [
+        "declaratory: Making or expressing a declaration.",
+        "judgment: A formal decision or opinion given by a court of law.",
+        "court order: An official instruction issued by a court, requiring specific action or prohibiting certain behavior.",
+        "legal remedy: A course of action or solution provided by law to address a legal wrong or harm.",
+        "contrasting facts: The process of comparing and analyzing different versions of events or information.",
+        "legal rights: The entitlements, privileges, and immunities granted by law to individuals or groups.",
+        "status quo: The existing state of affairs or the way things are at present.",
+        "equitable relief: A form of remedy granted by a court in cases where legal remedies are inadequate or unavailable.",
+        "injunctive relief: A court order prohibiting a party from taking specific action.",
+        "judicial declaration: A formal statement from a court clarifying the legal rights and obligations of parties involved in a dispute."
+        ]
+    },
+    "4": {
+        "relevant_keywords": [
+        "right: The specific side of the pelvic region experiencing pain.",
+        "pelvic: The area of the lower abdomen between the hip bones.",
+        "pain: The unpleasant sensation of discomfort arising from the pelvic region.",
+        "causes: The underlying factors or medical conditions contributing to the pain.",
+        "ovarian cysts: Fluid-filled sacs that develop on or near the ovaries, potentially causing pain.",
+        "endometriosis: A condition where tissue similar to the lining of the uterus grows outside the uterus, leading to pelvic pain.",
+        "pelvic inflammatory disease: An infection of the reproductive organs, often causing pain in the pelvis.",
+        "ectopic pregnancy: A pregnancy that occurs outside the uterus, which can cause severe pelvic pain.",
+        "fibroids: Noncancerous growths on or within the walls of the uterus, potentially causing pelvic pain and pressure.",
+        "cervical cancer: Cancer of the cervix, which may cause pain in the pelvic region in advanced stages.",
+        "uterine cancer: Cancer of the uterus, which can also cause pain in the pelvic area.",
+        "urinary tract infection: An infection of the urinary system, sometimes leading to pelvic pain and discomfort.",
+        "irritable bowel syndrome: A chronic digestive disorder that can cause abdominal pain, including pelvic discomfort.",
+        "appendicitis: Inflammation of the appendix, located in the lower right abdomen, causing pain that can be felt in the pelvis.",
+        "pelvic adhesions: Scar tissue bands that form within the pelvis, potentially causing pain and discomfort."
+        ]
+    },
+    "5": {
+        "relevant_keywords": [
+        "social: Refers to the factors related to society and social interactions.",
+        "determinants: The factors that influence and shape the health of individuals and populations.",
+        "health: The physical, mental, and social well-being of individuals and communities.",
+        "socioeconomic status: A measure of an individual's or family's social and economic position.",
+        "education level: The extent of formal education an individual has received.",
+        "occupation: The type of work an individual does, which can impact health risks and exposures.",
+        "income level: The amount of money an individual or family earns, influencing access to resources and healthcare.",
+        "housing quality: The safety and adequacy of an individual's or family's living environment.",
+        "food security: The ability to access sufficient, safe, and nutritious food.",
+        "access to healthcare: The ability to receive necessary medical care and preventive services.",
+        "social support: The availability of emotional and practical assistance from individuals and networks.",
+        "cultural factors: The shared beliefs, values, and practices of a particular group or community.",
+        "discrimination: Prejudice and unfair treatment based on certain characteristics, potentially impacting health outcomes.",
+        "health inequalities: The unfair and avoidable differences in health status between different groups of people.",
+        "public health policy: Laws and regulations designed to protect and improve the health of a population.",
+        "social justice: The fair and equitable distribution of resources and opportunities, essential for achieving health equity."
+        ]
+    },
+    "6": {
+        "relevant_keywords": [
+        "legionella pneumophila: A type of bacteria that can cause pneumonia.",
+        "pneumonia: An infection of the lungs, causing inflammation and difficulty breathing.",
+        "infection route: The way the bacteria enters the body, potentially through inhaling contaminated water droplets.",
+        "symptoms: The physical signs and experiences associated with legionella pneumonia, such as cough, fever, and shortness of breath.",
+        "diagnosis: The process of identifying the presence of legionella bacteria, often through medical tests.",
+        "treatment: The use of antibiotics and other therapies to fight the infection.",
+        "prevention: Strategies to avoid exposure to legionella bacteria, such as maintaining proper water hygiene."
+        ]
+    },
+    "7": {
+        "relevant_keywords": [
+        "weather: The atmospheric conditions of a place, including temperature, precipitation, and wind.",
+        "jamaica: The specific location for which weather information is desired.",
+        "current conditions: The current weather state in Jamaica, including temperature, humidity, wind speed, and cloud cover.",
+        "forecast: The predicted weather conditions for Jamaica in the coming hours or days.",
+        "historical data: Past weather data for Jamaica, potentially helpful for comparisons and understanding trends.",
+        "seasonality: The variation in weather patterns throughout the year in Jamaica.",
+        "microclimates: Variations in weather within small areas in Jamaica, depending on local factors like topography and vegetation."
+        ]
+    },
+    "8": {
+        "relevant_keywords": [
+        "dysarthria: A speech disorder characterized by muscle weakness and difficulty coordinating speech movements.",
+        "cerebral palsy: A neurological condition affecting muscle control and movement, potentially causing dysarthria.",
+        "spastic dysarthria: A type of dysarthria characterized by stiffness and tightness in the muscles used for speech.",
+        "athetoid dysarthria: A type of dysarthria characterized by involuntary, slow, and writhing movements of the muscles used for speech.",
+        "ataxic dysarthria: A type of dysarthria characterized by problems with balance and coordination, impacting speech control.",
+        "hypokinetic dysarthria: A type of dysarthria characterized by slowness and reduced movement of the muscles used for speech.",
+        "mixed dysarthria: A type of dysarthria involving features of two or more of the above-mentioned types.",
+        "severity: The degree to which dysarthria affects speech intelligibility and communication.",
+        "speech therapy: Treatment strategies to improve speech clarity and communication skills in individuals with dysarthria."
+        ]
+    },
+    "9": {
+        "relevant_keywords": [
+        "robert gray: The name of a person about whom information is sought.",
+        "disambiguation: The process of identifying the specific Robert Gray who is intended, considering multiple possibilities.",
+        "profession: Robert Gray's occupation, which might help identify the specific individual.",
+        "historical context: The time period in which Robert Gray lived or worked, narrowing down the search.",
+        "achievements: Robert Gray's notable accomplishments, potentially distinguishing him from others with the same name.",
+        "sources: Information sources consulted to identify the relevant Robert Gray, including books, articles, or online databases."
+        ]
+    },
+    "10": {
+        "relevant_keywords": [
+        "sous vide: A cooking technique that involves vacuum-sealing food and cooking it in a precisely controlled water bath.",
+        "food types: The variety of food items suitable for sous vide cooking.",
+        "meats: A popular category of food cooked sous vide, including steaks, poultry, and seafood.",
+        "vegetables: Another category suitable for sous vide, including carrots, asparagus, and broccoli.",
+        "eggs: A delicate food item often cooked sous vide for precise temperature control and texture.",
+        "desserts: Sous vide can be used to prepare custards, creams, and even chocolate tempering.",
+        "vacuum sealing: The process of removing air from a bag containing the food, crucial for heat transfer uniformity.",
+        "water bath temperature: The precise temperature maintained in the sous vide bath, impacting the cooking time and final texture of the food.",
+        "safety: Important considerations for sous vide cooking, including proper temperature control and food handling.",
+        "recipes: Resources for finding specific sous vide recipes for different types of food."
+        ]
+    },
+    "11": {
+        "relevant_keywords": [
+        "flea: A small, parasitic insect that feeds on the blood of mammals.",
+        "life cycle: The stages of development a flea goes through from egg to adulthood.",
+        "egg: The first stage in the flea life cycle, laid by adult females in warm, moist environments.",
+        "larva: The second stage, where the flea hatches from the egg and feeds on organic debris.",
+        "pupa: The third stage, where the larva transforms into an adult flea.",
+        "adult: The final stage, where the flea emerges from the pupa and seeks hosts for blood meals.",
+        "duration: The total time it takes for a flea to complete its life cycle, which can vary depending on temperature and humidity.",
+        "control methods: Strategies for preventing and eliminating flea infestations, including treating pets and their environment.",
+        "public health: The potential risks of fleas to public health, as they can transmit diseases like plague and typhus.",
+        "veterinary care: Consultations with a veterinarian for advice on preventing and treating flea infestations in pets."
+        ]
+    },
+    "12": {
+        "relevant_keywords": [
+        "contour plowing: An agricultural practice that follows the contours of the land instead of straight lines.",
+        "soil erosion: The process of soil being washed away by water or wind, one of the main problems contour plowing helps reduce.",
+        "water runoff: The flow of water across the land's surface, which can carry away valuable topsoil.",
+        "soil fertility: The ability of soil to support plant growth, which can be improved by reducing erosion and retaining moisture.",
+        "crop yield: The amount of crops harvested from a field, which can be increased by maintaining healthy soil.",
+        "land conservation: The practice of protecting and managing land resources for long-term sustainability.",
+        "implementation: Strategies and techniques for adopting contour plowing on different types of land.",
+        "benefits: The positive impacts of contour plowing on soil health, crop production, and environmental sustainability.",
+        "limitations: Potential challenges or drawbacks of using contour plowing in certain situations.",
+        "alternative conservation practices: Other methods for protecting soil and promoting sustainable agriculture, potentially used in conjunction with contour plowing."
+        ]
+    },
+    "13": {
+        "relevant_keywords": [
+        "salvation army: A Christian organization providing humanitarian aid and social services to people in need.",
+        "founding: The establishment of the Salvation Army in 1865 by William Booth in London.",
+        "mission: The Salvation Army's core purpose, which is to preach the gospel of Jesus Christ and meet human needs in his name.",
+        "activities: The various programs and services offered by the Salvation Army, including disaster relief, homeless shelters, addiction rehabilitation, and youth development.",
+        "global impact: The Salvation Army's presence and activities in over 130 countries around the world.",
+        "volunteering: Opportunities for individuals to get involved with the Salvation Army's work and contribute to its mission.",
+        "donations: Ways to financially support the Salvation Army and help them continue their work.",
+        "controversies: Some criticisms and challenges faced by the Salvation Army regarding its theology, practices, or social stances.",
+        "historical context: The social and religious climate of the 19th century that influenced the founding and development of the Salvation Army.",
+        "legacy: The Salvation Army's ongoing impact on communities and individuals around the world."
+        ]
+    },
+    "14": {
+        "relevant_keywords": [
+        "active margin: A zone in the Earth's crust where tectonic plates move apart, creating new crustal material.",
+        "plate tectonics: The theory that the Earth's crust is made up of large plates that move over time.",
+        "mid-ocean ridge: A mountain range located on the seafloor where new oceanic crust is created at active margins.",
+        "continental rifting: The process where an active margin forms between two continental plates, eventually leading to the formation of a new ocean basin.",
+        "volcanic activity: A common occurrence at active margins due to rising magma from the Earth's mantle.",
+        "earthquakes: Another frequent phenomenon at active margins caused by the movement and friction of tectonic plates.",
+        "subduction zones: Areas where one tectonic plate slides beneath another, forming deep trenches and potential volcanic activity.",
+        "transform faults: Boundaries where two plates slide past each other horizontally, causing earthquakes but not significant crust creation.",
+        "geological features: The unique landforms and structures associated with active margins, such as mountain ranges, volcanic islands, and deep sea trenches.",
+        "economic resources: The potential of active margins for mineral and energy resources, including hydrothermal vents and geothermal energy."
+        ]
+    },
+    "15": {
+        "relevant_keywords": [
+        "registered nurse (RN): A licensed healthcare professional with a Bachelor of Science in Nursing (BSN) degree, providing direct patient care.",
+        "bachelor of science in nursing (BSN): The undergraduate degree required to become a registered nurse (RN).",
+        "scope of practice: The specific tasks and responsibilities that RNs are legally authorized to perform, including administering medication, assessing patients, and providing education.",
+        "work settings: The diverse environments where RNs can work, such as hospitals, clinics, doctor's offices, and home healthcare.",
+        "career advancement: The opportunities for RNs to specialize in specific areas like critical care, pediatrics, or mental health, or pursue advanced degrees like a Master's of Science in Nursing (MSN) to become nurse practitioners.",
+        "licensed practical nurse (LPN): Another type of nurse with a less extensive education (typically a one-year program) and a narrower scope of practice than RNs.",
+        "job outlook: The projected demand for RNs and LPNs in the coming years, influenced by factors like population growth and aging, and advancements in healthcare technology.",
+        "salary comparison: The average salary differences between RNs and LPNs, considering factors like experience, location, and specialization.",
+        "personal fit: A formal statement from a court clarifying the legal rights and obligations of parties involved in a dispute.",
+        "educational resources: Information about accredited nursing programs and the application process for both RN and LPN degrees."
+        ]
+    },
+    "16": {
+        "relevant_keywords": [
+          "medicare: The U.S. federal health insurance program for people aged 65 and older, and certain younger people with disabilities.",
+          "mechanical ventilation: The use of a machine to assist a patient in breathing, typically for those with severe respiratory problems.",
+          "medicare coverage: The extent to which Medicare will pay for medical services, including mechanical ventilation.",
+          "qualifying criteria: The specific medical conditions or situations that must be met for Medicare to cover mechanical ventilation.",
+          "documentation requirements: The medical records and information needed to support a claim for Medicare coverage of mechanical ventilation.",
+          "appeals process: The steps patients can take if their claim for Medicare coverage of mechanical ventilation is denied.",
+          "alternative funding sources: Other options for patients who may not qualify for Medicare coverage of mechanical ventilation.",
+          "medicare resources: Websites and phone numbers for obtaining further information and assistance from Medicare on the topic of mechanical ventilation coverage.",
+          "patient advocacy groups: Organizations that provide support and resources to patients requiring mechanical ventilation.",
+          "ethics and decision-making: The ethical considerations involved in using mechanical ventilation, especially for patients with terminal illnesses."
+        ]
+      },
+      "17": {
+        "relevant_keywords": [
+          "trapezoid: A quadrilateral with two parallel sides and two non-parallel sides.",
+          "midsegment: A line segment connecting the midpoints of the two non-parallel sides of a trapezoid.",
+          "geometric properties: The specific characteristics of a trapezoid, including its angles, side lengths, and area.",
+          "midsegment formula: The mathematical formula for determining the length of a midsegment based on the lengths of the bases of the trapezoid.",
+          "proofs: Mathematical demonstrations and justifications for the properties of a trapezoid and its midsegment.",
+          "applications: Real-world situations where understanding the properties of a trapezoid and its midsegment is relevant, such as in construction, architecture, and engineering.",
+          "visual aids: Diagrams and illustrations demonstrating the concept of a midsegment in a trapezoid.",
+          "online resources: Websites, videos, and other online tools for learning more about trapezoids and their properties.",
+          "educational tools: Resources specifically designed for teaching students about the midsegment of a trapezoid, such as interactive exercises and lesson plans.",
+          "historical context: The development of the concept of a midsegment and its role in the history of geometry."
+        ]
+      },
+      "18": {
+        "relevant_keywords": [
+          "aml: Anti-money laundering, a set of regulations and procedures designed to prevent criminals from using the financial system to launder illegally obtained money.",
+          "surveillance: The monitoring of activities and transactions for suspicious patterns that may indicate money laundering or other financial crimes.",
+          "analyst: A person who analyzes data and identifies potential risks and threats, in this case related to money laundering.",
+          "responsibilities: The specific tasks and duties of an AML surveillance analyst, such as monitoring transactions, investigating suspicious activity, and reporting suspicious activity to relevant authorities.",
+          "skills and qualifications: The necessary skills and qualifications for an AML surveillance analyst, such as strong analytical and problem-solving skills, knowledge of AML regulations and procedures, and attention to detail.",
+          "career outlook: The projected job growth and salary expectations for AML surveillance analysts.",
+          "training and certification: The available training programs and certifications for aspiring AML surveillance analysts.",
+          "professional organizations: Organizations dedicated to supporting and advancing the field of AML, such as the Association of Certified Anti-Money Laundering Specialists (ACAMS).",
+          "technology tools: The software and technology tools used by AML surveillance analysts to monitor transactions and identify suspicious activity.",
+          "ethics and compliance: The importance of ethical conduct and compliance with AML regulations for surveillance analysts."
+        ]
+      },
+      "19": {
+        "relevant_keywords": [
+          "thai culture: The unique traditions, customs, and beliefs of the Thai people.",
+          "daily life: The typical activities and routines of Thai people in their daily lives.",
+          "family and community: The strong emphasis on family and community in Thai culture, influencing daily life and interactions.",
+          "religion: The predominant role of Theravada Buddhism in Thai culture and its impact on daily practices.",
+          "food: The importance of food and dining in Thai culture, with a focus on fresh ingredients, flavorful spices, and communal meals.",
+          "arts and entertainment: The rich artistic traditions of Thailand, including dance, music, and theater, often interwoven into daily life.",
+          "social customs and etiquette: The importance of respect and politeness in Thai culture, reflected in specific greetings, gestures, and social interactions.",
+          "festivals and celebrations: The vibrant and colorful festivals celebrated throughout the year in Thailand, reflecting religious beliefs, cultural traditions, and the agricultural calendar.",
+          "regional variations: The diverse cultural landscape of Thailand, with variations in customs, traditions, and daily life depending on the region.",
+          "historical context: The historical events and influences that have shaped Thai culture and continue to influence daily life today."
+        ]
+      },
+      "20": {
+        "relevant_keywords": [
+          "sigmet: An acronym for Significant Meteorological Information, a weather advisory issued by meteorological services to alert aviation authorities of potentially hazardous weather conditions.",
+          "aviation safety: The importance of sigmets for ensuring the safety of aircraft and passengers during flight.",
+          "weather phenomena: The specific types of weather phenomena that may trigger the issuance of a sigmet, such as severe thunderstorms, turbulence, icing, and volcanic ash.",
+          "issuing authority: The meteorological agencies responsible for issuing sigmets, typically national weather services associated with the International Civil Aviation Organization (ICAO).",
+          "format and content: The standardized format and content of a sigmet, which includes information about the type of weather hazard, its location, intensity, and expected duration.",
+          "dissemination: The methods used to distribute sigmets to aviation authorities and pilots, including dedicated communication channels and online platforms.",
+          "pilot response: The actions that pilots should take upon receiving a sigmet, including avoiding hazardous areas, adjusting flight routes, and adhering to safety regulations.",
+          "limitations: The limitations of sigmets, such as the potential for false alarms and delays in issuing advisories.",
+          "alternative information sources: Other resources available to pilots for obtaining weather information, such as meteorological forecasts, real-time observations, and pilot reports.",
+          "international cooperation: The importance of international cooperation between meteorological agencies in sharing information and issuing timely sigmets for global aviation safety."
+        ]
+      },
+      "21": {
+        "relevant_keywords": [
+          "interior concrete flooring: A durable and versatile flooring option for residential and commercial spaces.",
+          "cost factors: The various factors influencing the cost of installing interior concrete flooring, such as labor, materials, square footage, subfloor preparation, and desired finishes.",
+          "material costs: The cost of the concrete mix itself, including variations like polished concrete, stained concrete, and stamped concrete.",
+          "labor costs: The cost of hiring professionals for installation, including concrete contractors, finishers, and polishers.",
+          "square footage: The size of the area to be covered with concrete flooring, directly impacting the material and labor costs.",
+          "subfloor preparation: The cost of preparing the existing subfloor to ensure it is level and stable enough for concrete installation.",
+          "desired finishes: The cost of additional treatments and finishes like polishing, staining, or stamping, which add aesthetic appeal and durability.",
+          "maintenance: The relatively low maintenance requirements of concrete flooring, contributing to its long-term cost-effectiveness.",
+          "advantages: The benefits of choosing concrete flooring, such as durability, affordability, versatility, and ease of maintenance.",
+          "disadvantages: The potential drawbacks of concrete flooring, such as coldness, hardness, and potential cracking."
+        ]
+      },
+      "22": {
+        "relevant_keywords": [
+          "Switzerland: A landlocked country located in Central Europe, known for its stunning landscapes, delicious food, and rich cultural heritage.",
+          "popular food: The diverse culinary traditions of Switzerland, with regional specialties and unique dishes influenced by neighboring countries.",
+          "cheese: Switzerland's iconic food, with over 450 varieties produced nationwide, including Emmentaler, Gruyère, and Appenzeller.",
+          "chocolate: Another highly-regarded Swiss food, with a long history of chocolate production and renowned brands like Lindt and Toblerone.",
+          "fondue: A melted cheese dish typically enjoyed communal-style, often dipped into bread, potatoes, or vegetables.",
+          "rösti: A potato pancake made with grated potatoes, often served with cheese, applesauce, or meat dishes.",
+          "Zürcher Geschnetzeltes: A dish of sliced veal in a creamy mushroom sauce, originating from the canton of Zürich.",
+          "birchermüesli: A breakfast dish of soaked oats, nuts, fruits, and yogurt, known for its health benefits.",
+          "regional variations: The distinct culinary traditions in different parts of Switzerland, offering unique flavors and specialties.",
+          "dining culture: The importance of social gatherings and shared meals in Swiss culture, reflected in the enjoyment of traditional dishes."
+        ]
+      },
+      "23": {
+        "relevant_keywords": [
+          "shark: A diverse group of marine fish with a cartilaginous skeleton and gills.",
+          "warm-blooded: Animals that maintain a consistent internal body temperature, regardless of the external environment.",
+          "endothermic: Another term for warm-blooded, referring to the process of generating internal heat through metabolic processes.",
+          "conservation implications: The importance of understanding the thermal physiology of sharks for their conservation and management, considering the potential impacts of climate change and environmental factors."
+        ]
+      },
+      "24": {
+        "relevant_keywords": [
+          "durable medical equipment (DME): Medical devices and supplies that are intended for use in the home to treat or manage a medical condition.",
+          "types of DME: The diverse range of DME, including wheelchairs, walkers, oxygen concentrators, prosthetics, orthotics, hospital beds, and bathroom safety equipment.",
+          "eligibility and coverage: The criteria for patients to be eligible for DME coverage and the different insurance plans that may provide this coverage.",
+          "prescription and provider involvement: The role of healthcare providers in prescribing DME and ensuring it is appropriate for the patient's needs.",
+          "cost and funding: The costs associated with DME and the various funding options available, including insurance coverage, patient out-of-pocket expenses, and government programs.",
+          "maintenance and repair: The importance of maintaining and repairing DME properly to ensure its safety and effectiveness.",
+          "disposal and replacement: The procedures for safely disposing of old or damaged DME and obtaining replacements when necessary.",
+          "resources and support: The available resources and support services for patients and families using DME, including patient advocacy groups, government agencies, and medical supply companies.",
+          "ethical considerations: The ethical issues surrounding DME access and affordability, ensuring equitable access to essential medical equipment for all patients.",
+          "future of DME: The potential advancements in DME technology and the impact on patient care and quality of life."
+        ]
+      },
+      "25": {
+        "relevant_keywords": [
+          "exon: A segment of DNA that codes for a protein.",
+          "gene structure: The organization of DNA within a gene, including exons and introns.",
+          "transcription: The process of copying DNA into RNA.",
+          "mRNA: A type of RNA that carries the genetic information from DNA to the ribosomes, where protein synthesis occurs.",
+          "splicing: The removal of introns from the pre-mRNA to form mature mRNA.",
+          "translation: The process of using the information in mRNA to build a protein.",
+          "protein function: The diverse roles of proteins in the body, including structural support, enzymatic activity, cell signaling, and transportation of molecules.",
+          "mutations in exons: The potential for mutations in exons to lead to changes in protein structure and function, which can be associated with genetic diseases.",
+          "exon skipping: A therapeutic approach that aims to correct mutations in exons by skipping them during the splicing process.",
+          "research and development: The ongoing research and development in the field of exons and their role in gene expression and disease."
+        ]
+      },
+      "26": {
+        "relevant_keywords": [
+          "visceral: Relating to the internal organs, especially the digestive organs.",
+          "anatomy: The study of the structure of the body.",
+          "organs: The individual organs that make up the body's internal systems.",
+          "visceral fat: Fat stored around the abdominal organs, which can be harmful to health when in excess.",
+          "visceral reflex: An involuntary response of the internal organs to a stimulus.",
+          "visceral sensitivity: The degree to which a person is sensitive to pain or other sensations in their internal organs.",
+          "visceral learning: A type of learning that is based on emotions and gut feelings.",
+          "visceral literature: Literature that deals with strong emotions and personal experiences.",
+          "visceral arts: Arts that evoke strong emotions, such as painting, music, and dance.",
+          "misuse and overuse: The potential for misuse and overuse of the word visceral to describe things that are not truly related to the internal organs."
+        ]
+      },
+      "27": {
+        "relevant_keywords": [
+          "tracheids: Long, slender cells found in xylem, the plant tissue responsible for transporting water and minerals.",
+          "plant anatomy: The study of the structure of plants.",
+          "xylem: The vascular tissue responsible for transporting water and minerals from the roots to the rest of the plant.",
+          "structure: The shape and arrangement of the parts of a tracheid.",
+          "function: The role of tracheids in water transport.",
+          "evolution: The evolutionary history of tracheids.",
+          "comparison with other xylem elements: The similarities and differences between tracheids and other xylem elements, such as vessel elements.",
+          "importance for plant survival: The critical role of tracheids in plant survival and growth.",
+          "research and applications: The ongoing research on tracheids and their potential applications, such as in biomimetic materials."
+        ]
+      },
+      "28": {
+        "relevant_keywords": [
+          "RSA: An acronym for Rivest–Shamir–Adleman, a public-key cryptosystem widely used for secure data encryption and digital signatures.",
+          "cryptography: The science and practice of secure communication in the presence of adversaries.",
+          "key pair: Two mathematically linked keys used in RSA encryption: a public key for everyone to use and a private key kept secret by the owner.",
+          "encryption: The process of transforming plain text into unintelligible ciphertext using a key.",
+          "decryption: The process of transforming ciphertext back into plain text using the private key.",
+          "digital signatures: A cryptographic mechanism used to verify the authenticity and integrity of a message.",
+          "security and applications: The security features of RSA and its widespread applications in various sectors, including e-commerce, online banking, and digital communication.",
+          "limitations and future developments: The potential limitations of RSA and the ongoing research and development in the field of cryptography to address these limitations and improve security."
+        ]
+      },
+      "29": {
+        "relevant_keywords": [
+          "Commonwealth of Independent States (CIS): A regional intergovernmental organization formed by several post-Soviet states.",
+          "economic cooperation: The CIS's efforts to promote economic cooperation among member states, including through free trade agreements and joint projects.",
+          "political cooperation: The CIS's role in facilitating political dialogue and cooperation among member states on issues of common concern.",
+          "security cooperation: The CIS's efforts to promote regional security and stability, including through joint military exercises and intelligence sharing.",
+          "challenges and criticisms: The challenges faced by the CIS, such as disagreements among member states, economic disparities, and concerns about Russia's dominant role.",
+          "future of the CIS: The possible future directions for the CIS, including its potential to become a more integrated economic and political union or to remain a loose confederation of states."
+        ]
+      },
+      "30": {
+        "relevant_keywords": [
+          "left ventricular hypertrophy (LVH): The thickening of the left ventricle, the main pumping chamber of the heart.",
+          "causes: The various factors that can cause LVH, including high blood pressure, heart valve disease, and cardiomyopathy.",
+          "symptoms: The potential symptoms of LVH, which may include shortness of breath, fatigue, and chest pain.",
+          "diagnosis: The methods used to diagnose LVH, such as echocardiogram, EKG, and chest X-ray.",
+          "treatment: The treatment options for LVH, which may include medication, lifestyle changes, and surgery.",
+          "prognosis: The long-term outlook for people with LVH, which depends on the underlying cause and severity of the condition.",
+          "prevention: The steps that can be taken to prevent LVH, such as maintaining a healthy lifestyle and managing existing medical conditions.",
+          "research and advancements: The ongoing research on LVH and the development of new treatment options."
+        ]
+      },
+    "31": {
+    "relevant_keywords": [
+      "LPS laws: A term commonly used to refer to a set of laws enacted by various states in the United States that restrict the use of certain livestock procedures, including tail docking, castration, and dehorning.",
+      "animal welfare: The concern for the well-being of animals, encompassing both physical and mental health.",
+      "painful procedures: The debate surrounding the use of painful procedures on livestock, with concerns about animal suffering and ethical considerations.",
+      "agricultural practices: The impact of LPS laws on traditional agricultural practices and the economic viability of livestock farming.",
+      "state variations: The different regulations and restrictions imposed by individual states on specific livestock procedures.",
+      "scientific evidence: The ongoing research and debate regarding the scientific basis for the painfulness of certain procedures and the effectiveness of alternative methods.",
+      "alternative methods: The development and implementation of alternative methods to traditional livestock procedures, such as pain management and improved husbandry practices.",
+      "legal challenges: The legal challenges to LPS laws, raising concerns about federal preemption and the potential impact on interstate commerce.",
+      "ethical considerations: The ethical implications of LPS laws, considering animal rights, consumer preferences, and the economic interests of farmers.",
+      "future of LPS laws: The potential future developments in the regulation of livestock procedures and the ongoing debate surrounding animal welfare and agricultural practices."
+    ]
+  },
+  "32": {
+    "relevant_keywords": [
+      "Three Percenters: A loosely organized anti-government militia movement in the United States.",
+      "ideology: The Three Percenters' adherence to a range of ideologies, including anti-federalism, conspiracy theories, and white nationalism.",
+      "symbolism: The Three Percenters' use of the Roman numeral III or the phrase 3% as their symbol, based on the myth that only 3% of American colonists fought in the Revolutionary War.",
+      "history: The origins and evolution of the Three Percenters movement, including its association with the Oath Keepers and other militia groups.",
+      "activities: The Three Percenters' involvement in various activities, such as protests, armed patrols, and preparedness training.",
+      "controversies: The controversies surrounding the Three Percenters, including their association with violence, racism, and extremism.",
+      "government monitoring: The United States government's monitoring and classification of the Three Percenters as a potential domestic terrorist threat.",
+      "debates and perspectives: The ongoing debates and perspectives on the Three Percenters, ranging from concerns about their radical views and potential for violence to arguments for their right to free speech and assembly.",
+      "future of the movement: The potential future trajectory of the Three Percenters movement and its impact on American political and social landscapes."
+    ]
+  },
+  "33": {
+    "relevant_keywords": [
+      "military suicide: A serious issue affecting military personnel around the world, with rates often exceeding those in the civilian population.",
+      "risk factors: The various factors that can contribute to military suicide, including combat exposure, mental health conditions, PTSD, and access to firearms.",
+      "prevention efforts: The efforts by military organizations and governments to prevent military suicide, such as mental health screenings, suicide prevention programs, and support.",
+      "research and trends: The ongoing research on military suicide and the identification of trends to inform prevention strategies.",
+      "cultural factors: The role of military culture and stigma surrounding mental health in contributing to suicide risk.",
+      "destigmatization: The importance of destigmatizing mental health issues within the military to encourage help-seeking behavior.",
+      "transition and veteran support: The need for support services for military personnel transitioning out of service and veterans, who may be at increased risk of suicide.",
+      "international perspectives: The varying approaches to military suicide prevention in different countries and the potential for collaboration and knowledge sharing."
+    ]
+  },
+  "34": {
+    "relevant_keywords": [
+      "Theraderm: A line of skincare products marketed for various uses, including acne treatment, anti-aging, and skin lightening.",
+      "ingredients: The varying ingredients used in Theraderm products, depending on their intended purpose, including alpha hydroxy acids, retinol, and hydroquinone.",
+      "effectiveness: The mixed evidence regarding the effectiveness of Theraderm products, with some users reporting positive results and others experiencing side effects or minimal improvements.",
+      "safety concerns: The potential safety concerns associated with certain ingredients in Theraderm products, such as hydroquinone and retinol, which can cause irritation and other side effects.",
+      "controversies: The controversies surrounding Theraderm products, including claims of misleading advertising and the potential for exacerbating skin conditions.",
+      "alternatives: The availability of various alternative skincare products with similar claims and potentially fewer side effects.",
+      "user reviews: The importance of reading user reviews and researching ingredients before using Theraderm products.",
+      "consultation with dermatologist: The recommendation to consult with a dermatologist before using Theraderm products, especially for individuals with sensitive skin or pre-existing skin conditions.",
+      "independent research: The need for further independent research to evaluate the long-term safety and efficacy of Theraderm products."
+    ]
+  },
+  "35": {
+    "relevant_keywords": [
+      "Famvir: A brand name for the medication famciclovir, an antiviral drug used to treat and prevent herpes zoster (shingles) and genital herpes.",
+      "mechanism of action: The way Famvir works by inhibiting the replication of the herpes virus.",
+      "dosage and administration: The appropriate dosage and administration schedule for Famvir, which varies depending on the indication and individual factors.",
+      "effectiveness: The effectiveness of Famvir in shortening the duration and severity of herpes outbreaks, as well as reducing the risk of future outbreaks.",
+      "side effects: The potential side effects of Famvir, which can include headache, nausea, and vomiting.",
+      "drug interactions: The potential for Famvir to interact with other medications, so it is crucial to inform your doctor about all medications you are taking.",
+      "contraindications: Conditions under which Famvir should not be taken, such as severe kidney disease or hypersensitivity to the medication.",
+      "pregnancy and breastfeeding: The safety of using Famvir during pregnancy and breastfeeding is not fully established, and it is crucial to consult with your doctor before taking the medication.",
+      "alternatives: The availability of other antiviral medications",
+      "resistant strains: The potential for the herpes virus to develop resistance to Famvir, requiring alternative treatment options.",
+      "lifestyle modifications: The importance of lifestyle modifications, such as stress management and maintaining a healthy immune system, in managing herpes outbreaks.",
+      "vaccinations: The availability of vaccinations to prevent shingles and genital herpes, which can be more effective than antiviral medications in preventing outbreaks.",
+      "access to healthcare: The challenges of ensuring access to affordable and timely healthcare for individuals needing treatment for herpes infections.",
+      "stigma and discrimination: The stigma and discrimination associated with herpes infections, which can deter individuals from seeking diagnosis and treatment.",
+      "ongoing research: The ongoing research and development of new antiviral medications and treatment strategies for herpes infections."
+    ]
+  },
+  "36": {
+    "relevant_keywords": [
+
+
+      "anthropological definition of environment: The concept of environment in anthropology encompasses not just the physical surroundings, but also the social and cultural factors that shape human interaction with the natural world.",
+      "holistic perspective: Anthropology views the environment as a complex and interconnected system, where human societies and ecological systems are dynamically linked.",
+      "cultural construction: The recognition that different cultures perceive and interact with their environments in diverse ways, influenced by their beliefs, values, and practices.",
+      "adaptation and resilience: The focus on how human populations adapt to and build resilience within their environments, facing challenges such as climate change and resource scarcity.",
+      "power dynamics: The analysis of how power dynamics shape environmental access and utilization, with implications for resource distribution and sustainability.",
+      "indigenous knowledge systems: The recognition and incorporation of traditional ecological knowledge and practices of indigenous communities in environmental management and conservation.",
+      "critical environmental anthropology: A subfield within anthropology that critiques dominant environmental narratives and promotes social justice in environmental interventions.",
+      "anthropocene: The geological epoch marked by significant human impact on the planet's ecosystems and climate, requiring new approaches to environmental understanding and action.",
+      "environmental anthropology and sustainability: The contribution of anthropological research and approaches to promoting sustainable development and achieving environmental justice through collaboration and co-creation of knowledge.",
+      "methodological approaches: The diverse methodologies employed in anthropological environmental research, including ethnography, participant observation, and interdisciplinary collaborations.",
+      "challenges and future directions: The challenges and future directions of anthropological environmental research, such as addressing climate change, promoting equity and justice, and integrating indigenous perspectives in environmental solutions."
+    ]
+  },
+
+    "37": {
+      "relevant_keywords": [
+        "axon terminal: The specialized structure at the end of an axon, responsible for transmitting signals to other neurons.",
+        "synaptic knob: Another term for axon terminal, highlighting the bulbous shape of the structure.",
+        "neurotransmitters: Chemical messengers stored in axon terminals that are released upon activation, triggering signals in receiving neurons.",
+        "synapse: The junction between two neurons, where the axon terminal of one neuron meets the dendrite or cell body of another neuron.",
+        "synaptic transmission: The process of signal transmission across a synapse, involving the release of neurotransmitters from the axon terminal and their binding to receptors on the receiving neuron.",
+        "neuron types: The different types of neurons, including sensory, motor, and interneurons, and their roles in neural circuits.",
+        "functions of axon terminals: The diverse functions of axon terminals in various neural processes, such as movement, perception, learning, and memory.",
+        "disorders and malfunctions: The role of axon terminal dysfunction in various neurological disorders, such as Alzheimer's disease, Parkinson's disease, and multiple sclerosis.",
+        "research and advancements: The ongoing research on axon terminals and their role in neurotransmission, aimed at developing new treatments for neurological disorders."
+      ]
+    },
+    "38": {
+      "relevant_keywords": [
+        "Charles de Gaulle Airport: The main international airport serving Paris, France, located approximately 23 kilometers northeast of the city center.",
+        "Orly Airport: The second major airport serving Paris, located approximately 18 kilometers south of the city center.",
+        "Paris airports: The various airports serving Paris, including Charles de Gaulle, Orly, and Beauvais-Tillé Airport.",
+        "transportation options: The available transportation options for getting to and from Paris airports, including trains, buses, taxis, and ride-sharing services.",
+        "airport amenities: The amenities and services available at Paris airports, such as shops, restaurants, lounges, and Wi-Fi.",
+        "choosing the right airport: Factors to consider when choosing which airport to fly into or out of when traveling to or from Paris."
+      ]
+    },
+    "39": {
+      "relevant_keywords": [
+        "monotonic function: A function that either always increases or always decreases over its entire domain.",
+        "increasing function: A function where the output increases as the input increases.",
+        "decreasing function: A function where the output decreases as the input increases.",
+        "domain and range: The set of all possible input values for a function and the set of all possible output values, respectively.",
+        "examples: Some common examples of monotonic functions include the exponential function (e^x), the square root function (√x), and the absolute value function (|x|).",
+        "applications: The applications of monotonic functions in various fields like economics, engineering, and physics, such as modeling growth, analyzing costs, and predicting future values.",
+        "properties: The key properties of monotonic functions, such as their inverses being monotonic and their derivatives being non-negative for increasing functions and non-positive for decreasing functions.",
+        "generalizations: The generalization of monotonic functions to non-monotonic functions and the concept of monotonicity in multivariable functions.",
+        "mathematical analysis: The role of monotonic functions in mathematical analysis, including proofs, theorems, and applications in calculus and other branches of mathematics."
+      ]
+    },
+    "40": {
+      "relevant_keywords": [
+        "spruce: A genus of coniferous evergreen trees in the family Pinaceae.",
+        "general characteristics: Spruce trees are typically tall, slender, and pyramidal in shape, with needles arranged in whorls around the branches.",
+        "species: The various species of spruce trees, each with its own unique characteristics, such as size, shape, needle color, and cone size.",
+        "habitat and distribution: Spruce trees typically grow in cold, temperate climates, often in mountainous regions and boreal forests.",
+        "ecological importance: Spruce trees play a vital role in forest ecosystems, providing habitat for various species and influencing soil conditions and water flow.",
+        "economic uses: The wood of spruce trees is used for various purposes, including lumber, pulpwood, and construction materials.",
+        "cultural significance: Spruce trees have cultural significance in many societies around the world, often associated with Christmas celebrations and winter holidays.",
+        "threats and conservation: The threats faced by spruce trees, such as climate change, disease, and deforestation, and conservation efforts to protect these important trees."
+      ]
+    },
+    "41": {
+      "relevant_keywords": [
+        "hydrogen liquefaction: The process of converting hydrogen gas into a liquid state.",
+        "boiling point: The temperature at which hydrogen gas boils, which is approximately -252.8°C (-423.2°F).",
+        "liquefaction temperature: The temperature at which hydrogen gas condenses into a liquid, which is slightly lower than the boiling point, approximately -252.9°C (-423.4°F).",
+        "pressure: The importance of pressure in liquefying hydrogen, as high pressure is required to overcome the repulsive forces between hydrogen molecules.",
+        "applications: The diverse applications of liquid hydrogen, including as a fuel for rockets and vehicles, as a coolant in cryogenics, and as an energy storage medium.",
+        "challenges and safety: The challenges of storing and transporting liquid hydrogen safely due to its low temperature and high flammability.",
+        "future potential: The potential of liquid hydrogen as a clean and sustainable energy source for the future."
+      ]
+    },
+    "42": {
+      "relevant_keywords": [
+        "McDouble: A McDonald's sandwich consisting of two beef patties, cheese, pickles, onions, ketchup, and mustard on a hamburger bun.",
+        "Double Cheeseburger: Another McDonald's sandwich consisting of two beef patties, cheese, pickles, onions, ketchup, and mustard on a hamburger bun.",
+        "differences: While both the McDouble and Double Cheeseburger appear similar at first glance, there are some key differences between the two sandwiches.",
+        "cheese: The main difference is the type of cheese used. The McDouble uses a single slice of American cheese, while the Double Cheeseburger uses two slices of American cheese.",
+        "calories and fat content: Due to the extra cheese slice, the Double Cheeseburger has slightly higher calorie and fat content compared to the McDouble.",
+        "price: The McDouble is typically priced slightly lower than the Double Cheeseburger, reflecting the smaller portion size.",
+        "target audience: The McDouble is often marketed as a value option, while the Double Cheeseburger is seen as a more standard hamburger option for those seeking a slightly larger and richer sandwich.",
+        "customization: Both sandwiches can be customized with additional ingredients, such as bacon, lettuce, tomato, or mayonnaise, further tailoring them to individual preferences.",
+        "nutrition information: It is important to consult McDonald's nutritional information website for the latest and most accurate calorie and fat content of both sandwiches, which may vary slightly depending on location."
+      ]
+    }
+  }
+
+    
+  

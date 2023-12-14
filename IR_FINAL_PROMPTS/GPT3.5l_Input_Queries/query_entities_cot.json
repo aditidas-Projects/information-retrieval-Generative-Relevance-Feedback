@@ -1,0 +1,347 @@
+{
+    "156493": {
+      "relevant_entities": [
+        "Goldfish: Central subject of the query, seeking information about their growth.",
+        "Aquarium: Habitat where goldfish are commonly kept, impacting their growth.",
+        "Fish tank size: Relates to goldfish growth and living conditions.",
+        "Water temperature: Critical for the health and growth of goldfish."
+      ]
+    },
+    "1110199": {
+      "relevant_entities": [
+        "WiFi: Wireless technology used for internet connectivity.",
+        "Bluetooth: Wireless communication standard for short distances.",
+        "Frequency bands: Different channels used for signal transmission.",
+        "Low-power connections: Energy-efficient options for wireless communication."
+      ]
+    },
+    "1063750": {
+      "relevant_entities": [
+        "World War I: Main historical event inquired about in the query.",
+        "United States: Country involved in World War I.",
+        "Submarine warfare: A tactic utilized during World War I.",
+        "Zimmermann Telegram: Event influencing the US decision to enter the war."
+      ]
+    },
+    "130510": {
+      "relevant_entities": [
+        "Declaratory judgments: Legal term referring to court decisions.",
+        "Legal positions: Concerning stances or arguments within a legal context.",
+        "Rights: Entitlements or claims within a legal framework.",
+        "Legal disputes: Conflicts or controversies resolved through legal means."
+      ]
+    },
+    "489204": {
+      "relevant_entities": [
+        "Pelvic pain: Primary symptom in the query.",
+        "Ovarian cysts: Potential cause of pelvic pain.",
+        "Appendicitis: Another probable cause of right pelvic pain.",
+        "Diagnosis: Methods to determine the cause of pelvic pain."
+      ]
+    },
+    "573724": {
+      "relevant_entities": [
+        "Social determinants: Factors impacting health beyond medical care.",
+        "Healthcare access: Availability of medical services.",
+        "Economic status: Financial situation affecting health.",
+        "Health inequalities: Disparities in health outcomes among different groups."
+      ]
+    },
+    "168216": {
+      "relevant_entities": [
+        "Legionella pneumophila: Bacterium causing Legionnaires' disease.",
+        "Legionnaires' disease: Pneumonia-like illness caused by Legionella bacteria.",
+        "Water systems: Common source of Legionella exposure.",
+        "Preventive measures: Ways to avoid Legionella infection."
+      ]
+    },
+    "1133167": {
+      "relevant_entities": [
+        "Jamaica: Location related to the weather query.",
+        "Tropical climate: Climate description of Jamaica.",
+        "Altitude: Impacts weather conditions in various regions.",
+        "Hurricane season: Period prone to hurricanes in the region."
+      ]
+    },
+    "527433": {
+      "relevant_entities": [
+        "Dysarthria: Speech disorder linked to cerebral palsy.",
+        "Cerebral palsy: Neurological condition affecting speech and movement.",
+        "Speech clarity: Affected by dysarthria.",
+        "Communication devices: Tools to assist individuals with dysarthria."
+      ]
+    },
+    "1037798": {
+      "relevant_entities": [
+        "Robert Gray: Possibly a historical figure or name.",
+        "Northwest coast: Geographical area related to Robert Gray.",
+        "Exploration: Possibly referring to historical explorations.",
+        "Maritime fur trade: Trade activity in the mentioned region."
+      ]
+    },
+    "915593": {
+        "relevant_entities": [
+        "Sous vide cooking: Method involving vacuum-sealing food and precise water temperature.",
+        "Vacuum-sealing: Process of removing air before cooking food.",
+        "Precise water bath: Maintaining consistent temperature while cooking.",
+        "Immersion circulators: Devices used for sous vide cooking."
+        ]
+    },
+    "264014": {
+        "relevant_entities": [
+        "Flea life cycle: Various stages in the life of fleas.",
+        "Egg stage: Initial phase in the life cycle of fleas.",
+        "Pupa: Stage of flea development.",
+        "Adult fleas: Mature stage of the flea life cycle."
+        ]
+    },
+    "1121402": {
+        "relevant_entities": [
+        "Contour plowing: Farming technique to prevent soil erosion.",
+        "Soil erosion: Natural process causing loss of topsoil.",
+        "Water runoff: Movement of water over the land surface.",
+        "Soil fertility: The ability of soil to sustain plant growth."
+        ]
+    },
+    "962179": {
+        "relevant_entities": [
+        "The Salvation Army: A charitable organization providing social services.",
+        "William Booth: Founder of The Salvation Army.",
+        "Catherine Booth: Co-founder of The Salvation Army.",
+        "Social services: Programs to assist the needy."
+        ]
+    },
+    "1117099": {
+        "relevant_entities": [
+        "Active margins: Tectonic plate boundaries with geological activity.",
+        "Tectonic activity: Movement and deformation of Earth's crust.",
+        "Convergent plate boundaries: Plates moving towards each other.",
+        "Subduction zones: Areas where one tectonic plate is forced beneath another."
+        ]
+    },
+    "148538": {
+        "relevant_entities": [
+        "RN (Registered Nurse): Healthcare professional with a nursing degree.",
+        "BSN (Bachelor of Science in Nursing): Advanced nursing degree.",
+        "Associate's degree: Lower-level academic qualification.",
+        "Bachelor's degree: Higher-level academic qualification."
+        ]
+    },
+    "451602": {
+        "relevant_entities": [
+        "Medicare: Health insurance program in the United States.",
+        "Mechanical ventilation: Medical procedure to assist breathing.",
+        "Respiratory failure: Inability to breathe adequately.",
+        "Healthcare coverage: Extent of medical insurance."
+        ]
+    },
+    "359349": {
+        "relevant_entities": [
+        "Midsegment: Line segment connecting midpoints of two sides of a trapezoid.",
+        "Trapezoid: Quadrilateral with one pair of parallel sides.",
+        "Parallel sides: Two sides of a trapezoid that are parallel.",
+        "Geometry: Branch of mathematics dealing with shapes and sizes."
+        ]
+    },
+    "1115776": {
+        "relevant_entities": [
+        "AML (Anti-Money Laundering): Efforts to prevent illegal money activities.",
+        "Surveillance analysts: Professionals monitoring financial transactions.",
+        "Financial transactions: Money-related activities.",
+        "Regulations: Rules governing financial practices."
+        ]
+    },
+    "1112341": {
+        "relevant_entities": [
+        "Thai daily life: Routine and activities of Thai people.",
+        "Buddhism: Dominant religion in Thailand.",
+        "Thai cuisine: Traditional food of Thailand.",
+        "Festivals: Celebrations and events in Thai culture."
+        ]
+    },
+    "131843": {
+        "relevant_entities": [
+        "SIGMET alerts: Notices indicating hazardous weather conditions for aviation.",
+        "Pilot safety: Concerns for ensuring safety during flight.",
+        "Weather phenomena: Various atmospheric occurrences.",
+        "Flight route planning: Determining the path of an aircraft."
+        ]
+    },
+    "104861": {
+        "relevant_entities": [
+        "Interior concrete flooring: Flooring using concrete indoors.",
+        "Durability: Ability to withstand wear and tear.",
+        "Design: Aesthetic and structural planning.",
+        "Installation: Process of putting in place."
+        ]
+    },
+    "833860": {
+        "relevant_entities": [
+        "Swiss cuisine: Traditional dishes of Switzerland.",
+        "Fondue: A popular Swiss melted cheese dish.",
+        "Raclette: Another famous Swiss melted cheese meal.",
+        "Swiss chocolate: Renowned chocolate produced in Switzerland."
+        ]
+    },
+    "207786": {
+        "relevant_entities": [
+        "Shark species: Different types of sharks.",
+        "Regional endothermy: Ability to maintain warmth in specific body parts.",
+        "Great white shark: A well-known shark species.",
+        "Thermal adaptation: Adjustment to varying temperatures."
+        ]
+    },
+    "1114819": {
+        "relevant_entities": [
+        "Durable medical equipment: Long-lasting medical aids.",
+        "Wheelchairs: Mobility devices for people with limited mobility.",
+        "Hospital beds: Specialized beds used in medical facilities.",
+        "Prosthetics: Artificial limbs or body parts."
+        ]
+    },
+    "183378": {
+        "relevant_entities": [
+        "Exons: Coding regions in DNA.",
+        "DNA sequences: Specific arrangements of nucleotides.",
+        "Gene expression: Process converting DNA to functional proteins.",
+        "Splicing: Process of removing introns from RNA."
+        ]
+    },
+    "1106007": {
+        "relevant_entities": [
+        "Visceral anatomy: Structure and arrangement of internal organs.",
+        "Internal organs: Organs located inside the body.",
+        "Body cavities: Hollow spaces within the body.",
+        "Visceral pain: Pain arising from internal organs."
+        ]
+    },
+    "1124210": {
+        "relevant_entities": [
+        "Tracheids: Plant cells responsible for water transport.",
+        "Plant cells: Basic units of plant structure.",
+        "Xylem tissue: Part of the plant vascular system.",
+        "Water transport: Movement of water within plants."
+        ]
+    },
+    "490595": {
+        "relevant_entities": [
+        "RSA encryption: Public-key cryptographic algorithm.",
+        "Public-key cryptography: Encryption method using key pairs.",
+        "Prime numbers: Numbers with only two divisors.",
+        "Digital communication: Communication using electronic devices."
+        ]
+    },
+    "1103812": {
+        "relevant_entities": [
+        "Commonwealth of Independent States: Association of former Soviet republics.",
+        "Former Soviet republics: Nations previously part of the USSR.",
+        "Eurasia: Landmass encompassing Europe and Asia.",
+        "Economic cooperation: Collaborative efforts for financial growth."
+        ]
+    },
+    "87181": {
+        "relevant_entities": [
+        "Left ventricular hypertrophy: Enlargement of the heart's left pumping chamber.",
+        "Cardiac conditions: Health issues related to the heart.",
+        "Hypertension: High blood pressure leading to cardiac changes.",
+        "Heart health: Factors influencing cardiovascular well-being."
+        ]
+    },
+    "443396": {
+        "relevant_entities": [
+        "LPS (Lipopolysaccharide): Molecule found in bacterial cell walls.",
+        "Toxin: Harmful substance produced by bacteria.",
+        "Immune response: Body's reaction to foreign substances.",
+        "Bacterial infections: Diseases caused by bacteria."
+        ]
+    },
+    "1121709": {
+        "relevant_entities": [
+        "Three Percenters: American patriot movement advocating for limited government.",
+        "Second Amendment: Constitutional right to bear arms.",
+        "Militia groups: Organizations centered around armed citizenry.",
+        "Political ideologies: Beliefs about governance and rights."
+        ]
+    },
+    "87452": {
+        "relevant_entities": [
+        "Military suicide: Instances of suicide within the armed forces.",
+        "PTSD (Post-Traumatic Stress Disorder): Mental health condition linked to trauma.",
+        "Mental health in the military: Psychological well-being of service members.",
+        "Stress management: Techniques to handle mental strain."
+        ]
+    },
+    "855410": {
+        "relevant_entities": [
+        "Theraderm: Brand or product used for skincare.",
+        "Skincare regimen: Routine for maintaining healthy skin.",
+        "Beauty products: Cosmetics and treatments for the skin.",
+        "Dermatology: Medical field focusing on skin health."
+        ]
+    },
+    "1114646": {
+        "relevant_entities": [
+        "Famvir: Medication used for treating viral infections.",
+        "Antiviral drugs: Medicines fighting against viruses.",
+        "Herpes treatment: Medical care for herpes infections.",
+        "Prescription medication: Drugs requiring a doctor's authorization."
+        ]
+    },
+    "19335": {
+        "relevant_entities": [
+        "Anthropological definition of environment: Perspectives on the relationship between humans and surroundings.",
+        "Cultural ecology: Study of how cultures interact with their environments.",
+        "Human geography: Examination of human interactions with their geographic surroundings.",
+        "Environmental anthropology: Branch focusing on the interplay between people and their environments."
+        ]
+    },
+    "47923": {
+        "relevant_entities": [
+        "Axon terminals: Endpoints of nerve cells transmitting signals.",
+        "Synaptic knob: Structure releasing neurotransmitters to communicate between neurons.",
+        "Neurobiology: Study of the nervous system.",
+        "Neurotransmission: Process of signaling between nerve cells."
+        ]
+    },
+    "405717": {
+        "relevant_entities": [
+        "CDG Airport: Charles de Gaulle Airport in Paris, France.",
+        "Paris: Capital city of France.",
+        "Aviation hubs: Major airports facilitating air travel.",
+        "Transportation infrastructure: Systems aiding movement of people and goods."
+        ]
+    },
+    "182539": {
+        "relevant_entities": [
+        "Monotonic function: Mathematical function strictly increasing or decreasing.",
+        "Mathematics: Study of numbers, quantities, and shapes.",
+        "Graphical representation: Display of data through diagrams or charts.",
+        "Calculus: Branch of mathematics involving derivatives and integrals."
+        ]
+    },
+    "1113437": {
+        "relevant_entities": [
+        "Physical description of spruce: Characteristics and features of spruce trees.",
+        "Botanical classification: Categorization of plant species.",
+        "Forestry: Management of forests and trees.",
+        "Flora and fauna: Plant and animal life in a specific region."
+        ]
+    },
+    "1129237": {
+        "relevant_entities": [
+        "Hydrogen's liquid state: Conditions under which hydrogen becomes a liquid.",
+        "Phase transition: Change in state from gas to liquid.",
+        "Chemical properties: Characteristics of elements like hydrogen.",
+        "Low temperature physics: Study of matter at extremely cold temperatures."
+        ]
+    },
+    "146187": {
+        "relevant_entities": [
+        "McDouble: Food item from McDonald's menu.",
+        "Double cheeseburger: Fast food menu item similar to the McDouble.",
+        "Fast food: Quick-service restaurant meals.",
+        "Caloric content: Energy value of food items."
+        ]
+    }      
+  }
+  

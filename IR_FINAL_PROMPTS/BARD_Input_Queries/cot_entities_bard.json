@@ -1,0 +1,479 @@
+{
+    "0": {
+      "query": "Do goldfish grow?",
+      "chain_of_thought": [
+        "Goldfish are living organisms.",
+        "All living organisms grow in some way.",
+        "Therefore, goldfish must grow.",
+        "The rate of goldfish growth depends on their environment, including water temperature, food availability, and tank size.",
+        "Overcrowded or underfed goldfish will grow slower than those in optimal conditions.",
+        "Goldfish can grow up to 12 inches long, depending on the variety.",
+        "Some goldfish varieties are bred to be small, while others are bred to be large.",
+        "Goldfish can live for 10-20 years with proper care.",
+        "As goldfish age, they may lose some of their color or develop health problems.",
+        "However, with proper care, goldfish can be healthy and long-lived pets."
+      ]
+    },
+    "1": {
+      "query": "What is Wi-Fi vs Bluetooth?",
+      "chain_of_thought": [
+        "Wi-Fi and Bluetooth are both wireless networking technologies.",
+        "Wi-Fi is designed for high-speed data transfer over longer distances.",
+        "Bluetooth is designed for short-range communication between devices.",
+        "Wi-Fi uses radio waves to transmit data, while Bluetooth uses short-range radio waves.",
+        "Wi-Fi is typically used for connecting to the internet, while Bluetooth is typically used for connecting devices like headphones, speakers, and keyboards.",
+        "Wi-Fi can connect multiple devices at once, while Bluetooth typically only connects two devices at a time.",
+        "Wi-Fi is typically more secure than Bluetooth.",
+        "Bluetooth consumes less power than Wi-Fi.",
+        "The choice between Wi-Fi and Bluetooth depends on the specific needs of the user.",
+        "Wi-Fi is the better choice for tasks that require high-speed data transfer, such as streaming video or downloading files.",
+        "Bluetooth is the better choice for tasks that require short-range communication, such as connecting headphones or speakers.",
+        "Some devices, such as smartphones, can use both Wi-Fi and Bluetooth."
+      ]
+    },
+    "2": {
+      "query": "Why did the US voluntarily enter WWI?",
+      "chain_of_thought": [
+        "The US entered WWI in 1917.",
+        "There were several reasons for this decision.",
+        "One reason was the German U-boat campaign, which sank several American ships and killed American citizens.",
+        "Another reason was the British interception of the Zimmerman Telegram, which revealed a German plot to encourage Mexico to invade the US in exchange for territory.",
+        "The US also felt that it had a moral obligation to help the Allies defeat Germany and preserve democracy.",
+        "The US's entry into the war helped to turn the tide in favor of the Allies and led to their victory in 1918."
+      ]
+    },
+    "3": {
+      "query": "Definition declaratory judgment",
+      "chain_of_thought": [
+        "A declaratory judgment is a legal ruling that clarifies the rights and responsibilities of parties involved in a dispute.",
+        "It is not a final judgment and does not award damages or other relief.",
+        "Declaratory judgments are often used to settle disputes before they reach trial.",
+        "They can be used to determine the validity of a contract, the ownership of property, or the meaning of a law.",
+        "Declaratory judgments can be helpful in resolving disputes without the need for a full trial."
+      ]
+    },
+    "4": {
+      "query": "Right pelvic pain causes",
+      "chain_of_thought": [
+        "Right pelvic pain can have many causes.",
+        "Some common causes include:",
+        "Ovulation pain",
+        "Endometriosis",
+        "Pelvic inflammatory disease (PID)",
+        "Ovarian cysts",
+        "Ectopic pregnancy",
+        "Appendicitis",
+        "Kidney stones",
+        "Urinary tract infections (UTIs)",
+        "The severity and location of the pain can help to determine the cause.",
+        "If you are experiencing right pelvic pain, it is important to see a doctor to rule out any serious underlying conditions."
+      ]
+    },
+    "5": {
+      "query": "What are the social determinants of health?",
+      "chain_of_thought": [
+        "The social determinants of health are the social and economic conditions that influence health outcomes.",
+        "These include:",
+        "Income and poverty",
+        "Education",
+        "Housing",
+        "Food security",
+        "Social support",
+        "Neighborhood environment",
+        "Access to healthcare",
+        "The social determinants of health can have a significant impact on a person's health and well-being.",
+        "For example, people with lower incomes are more likely to experience poor health than those with higher incomes.",
+        "Addressing the social determinants of health is essential for improving population health."
+      ]
+    },
+    "6": {
+      "query": "Does Legionella pneumophila cause pneumonia?",
+      "chain_of_thought": [
+        "Yes, Legionella pneumophila is the bacterium that causes Legionnaires' disease, a type of pneumonia.",
+        "Legionella pneumophila is found in water sources, such as cooling towers, hot tubs, and showerheads."
+      ]
+    },
+    "7": {
+        "query": "How is the weather in Jamaica?",
+        "chain_of_thought": [
+          "The weather in Jamaica varies depending on the location and time of year.",
+          "However, the climate is generally tropical, with warm temperatures and high humidity.",
+          "The rainy season is from May to November, and the dry season is from December to April.",
+          "Jamaica is also located in the hurricane belt, so there is a risk of hurricanes from June to November.",
+          "The average temperature in Jamaica is 27°C (80°F).",
+          "The average rainfall is 1,900 mm (75 inches) per year."
+        ]
+      },
+      "8": {
+        "query": "Types of dysarthria from cerebral palsy",
+        "chain_of_thought": [
+          "Dysarthria is a speech disorder caused by muscle weakness or paralysis in the face, mouth, or tongue.",
+          "It can be caused by a variety of conditions, including cerebral palsy, stroke, and Parkinson's disease.",
+          "There are several different types of dysarthria, each with its own set of symptoms.",
+          "Spastic dysarthria: This is the most common type of dysarthria in people with cerebral palsy. It is characterized by stiffness and slowness of speech.",
+          "Athetoid dysarthria: This type of dysarthria is characterized by involuntary movements of the tongue, mouth, and face.",
+          "Ataxic dysarthria: This type of dysarthria is characterized by poor coordination of the muscles used for speech.",
+          "Mixed dysarthria: This type of dysarthria is characterized by a combination of two or more of the other types of dysarthria.",
+          "The severity of dysarthria can vary from mild to severe.",
+          "In some cases, dysarthria can improve with speech therapy."
+        ]
+      },
+      "9": {
+        "query": "Who is Robert Gray?",
+        "chain_of_thought": [
+          "There are many people named Robert Gray, so it is difficult to say who you are referring to without more information.",
+          "Some possible answers include:",
+          "Robert Gray (born 1942), American mathematician.",
+          "Robert Gray (born 1950), American politician.",
+          "Robert Gray (born 1965), American football player.",
+          "Robert Gray (born 1971), Scottish footballer.",
+          "Robert Gray (born 1974), American musician.",
+          "If you can provide more information about Robert Gray, I may be able to give you a more specific answer."
+        ]
+      },
+      "10": {
+        "query": "What types of food can you cook sous vide?",
+        "chain_of_thought": [
+          "Sous vide is a cooking method that involves sealing food in a vacuum-sealed bag and then cooking it in a water bath at a precise temperature.",
+          "This method allows for even cooking and can produce very tender and flavorful results.",
+          "A wide variety of foods can be cooked sous vide, including:",
+          "Meat: Steak, pork, chicken, lamb, etc.",
+          "Seafood: Fish, shellfish, etc.",
+          "Vegetables: Asparagus, carrots, potatoes, etc.",
+          "Eggs: Scrambled eggs, omelets, etc.",
+          "Desserts: Crème brûlée, cheesecake, etc."
+        ]
+      },
+      "11": {
+        "query": "How long is the life cycle of a flea?",
+        "chain_of_thought": [
+          "The life cycle of a flea can vary depending on the environment, but it typically takes about 3-4 weeks.",
+          "There are four stages in the life cycle of a flea: egg, larva, pupa, and adult.",
+          "Fleas lay their eggs on the host animal, typically in areas where the fur is thin, such as the belly or groin.",
+          "The eggs hatch into larvae, which feed on organic debris and blood.",
+          "The larvae spin cocoons and pupate.",
+          "The adults emerge from the cocoons and are ready to mate and lay eggs.",
+          "Fleas can live for several months without a host animal."
+        ]
+      },
+      "12": {
+        "query": "What can contour plowing reduce?",
+        "chain_of_thought": [
+          "Contour plowing is a method of plowing that follows the contours of the land.",
+          "This helps to reduce soil erosion by preventing water from running downhill and carrying away topsoil.",
+          "Contour plowing can also help to improve soil fertility by trapping water and nutrients in the soil.",
+          "Additionally, contour plowing can help to reduce the amount of sediment that enters waterways.",
+          "Contour plowing is a simple and effective way to conserve soil and water resources."
+        ]
+      },
+      "13": {
+        "query": "When was the Salvation Army founded?",
+        "chain_of_thought": [
+          "The Salvation Army was founded in 1865 by William Booth in London, England.",
+          "It is a Christian organization that provides social services to people in need.",
+          "The Salvation Army is active in over 130 countries around the world."
+        ]
+      },
+      "14": {
+        "query": "What is an active margin?",
+        "chain_of_thought": [
+          "An active margin is a type of continental margin where a tectonic plate is subducted beneath another plate.",
+          "This process is accompanied by geological activity, such as earthquakes, volcanic eruptions, and mountain building.",
+          "Active margins are typically characterized by steep slopes, narrow continental shelves, and deep ocean trenches.",
+          "Examples of active margins include the west coast of North America, the west coast of South America, and the Japan Trench.",
+          "In contrast to active margins, passive margins are formed by the breakup of continents and are not associated with active geological processes."
+        ]
+      },
+      "15": {
+        "query": "Difference between RN and BSN",
+        "chain_of_thought": [
+          "Registered Nurse (RN) and Bachelor of Science in Nursing (BSN) are both professional designations for nurses.",
+          "However, there are some key differences between the two.",
+          "Education: RNs typically complete a two-year associate's degree or diploma program, while BSNs complete a four-year bachelor's degree program.",
+          "Scope of Practice: RNs generally have a broader scope of practice than BSNs and can work in a variety of settings, such as hospitals, clinics, and home healthcare. BSNs may have more specialized skills and knowledge, and they may be able to work in leadership or research positions.",
+          "Salary: BSNs typically earn a higher salary than RNs.",
+          "Job Outlook: The job outlook for both RNs and BSNs is expected to be strong in the coming years."
+        ]
+      },
+      "16": {
+        "query": "Medicare's definition of mechanical ventilation",
+        "chain_of_thought": [
+          "According to Medicare, mechanical ventilation is \"the use of a mechanical device to assist or replace a patient's respiratory function.\"",
+          "This can include the use of a ventilator, which is a machine that pumps air into and out of a patient's lungs.",
+          "Mechanical ventilation is typically used for patients who are unable to breathe on their own, such as those with severe respiratory diseases or injuries.",
+          "Medicare covers the costs of mechanical ventilation for qualifying patients, but there may be some out-of-pocket expenses."
+        ]
+      },
+      "17": {
+        "query": "How to find the midsegment of a trapezoid",
+        "chain_of_thought": [
+          "The midsegment of a trapezoid is a line segment that connects the midpoints of the two non-parallel sides.",
+          "To find the midsegment, follow these steps:",
+          "Draw a trapezoid.",
+          "Label the midpoints of the two non-parallel sides.",
+          "Draw a line connecting the two midpoints.",
+          "This line is the midsegment of the trapezoid.",
+          "The midsegment is parallel to the bases of the trapezoid and its length is equal to the average of the lengths of the bases."
+        ]
+      },
+      "18": {
+        "query": "What is an AML surveillance analyst?",
+        "chain_of_thought": [
+          "An AML (Anti-Money Laundering) surveillance analyst is responsible for identifying and reporting suspicious financial activity that may be related to money laundering or terrorist financing.",
+          "They typically work for banks, financial institutions, and law enforcement agencies.",
+          "AML surveillance analysts use a variety of tools and techniques to analyze financial transactions, including transaction monitoring, customer due diligence, and risk assessment.",
+          "They also need to be familiar with the latest AML regulations and best practices.",
+          "AML surveillance analysts play a critical role in preventing money laundering and terrorist financing."
+        ]
+      },
+      "19": {
+        "query": "What is the daily life of Thai people?",
+        "chain_of_thought": [
+          "Daily life in Thailand varies depending on the region, occupation, and social class.",
+          "However, some common aspects include:",
+          "Family: Family is very important in Thai culture, and many people live with extended family members.",
+          "Food: Thai cuisine is known for its spicy flavors and fresh ingredients. Popular dishes include pad thai, green curry, and tom yum soup.",
+          "Religion: Buddhism is the main religion in Thailand, and it plays a significant role in daily life. Many people visit temples and participate in religious ceremonies.",
+          "Work: Thailand has a rapidly developing economy, and many people work in the service industry, manufacturing, or agriculture.",
+          "Leisure: Thais enjoy spending time with family and friends, going to the beach, and participating in traditional festivals."
+        ]
+      },
+      "20": {
+        "query": "Definition of a SIGMET",
+        "chain_of_thought": [
+          "A SIGMET, or Significant Meteorological Information, is a weather advisory issued by a World Area Forecast Center (WAFC).",
+          "SIGMETs provide information about hazardous weather conditions that are potentially dangerous to aviation.",
+          "These conditions may include thunderstorms, icing, turbulence, volcanic ash, and tropical cyclones.",
+          "SIGMETs are typically issued for a specific area and time period.",
+          "Pilots are required to be aware of their surroudings at all times."
+        ]
+    },
+    "21": {
+        "query": "Cost of interior concrete flooring",
+        "chain_of_thought": [
+          "The cost of interior concrete flooring can vary depending on several factors, including:",
+          "Type of finish: Polished concrete is more expensive than stained or stamped concrete.",
+          "Square footage: The larger the area, the lower the cost per square foot.",
+          "Complexity of the design: Simple designs are cheaper than complex designs with patterns or borders.",
+          "Labor costs: Labor costs can vary depending on the location and the skill level of the contractor.",
+          "Material costs: The cost of materials such as concrete, stain, and sealant can also vary.",
+          "In general, you can expect to pay between $2 and $12 per square foot for interior concrete flooring. However, the cost can be higher or lower depending on the factors mentioned above."
+        ]
+      },
+      "22": {
+        "query": "Most popular food in Switzerland",
+        "chain_of_thought": [
+          "Switzerland has a diverse culinary scene, with different regions boasting unique dishes. However, some popular foods enjoyed across the country include:",
+          "Fondue: A melted cheese dish typically served with bread, potatoes, and vegetables.",
+          "Rösti: A potato pancake often served with cheese or meat.",
+          "Raclette: Melted cheese scraped onto a plate and served with potatoes, pickles, and onions.",
+          "Zurich Geschnetzeltes: A dish of sliced veal in a creamy mushroom sauce, served with Rosti.",
+          "Birchermüesli: A breakfast porridge made with oats, nuts, fruits, and yogurt.",
+          "Chocolate: Switzerland is renowned for its high-quality chocolate, with brands like Lindt and Toblerone being famous worldwide."
+        ]
+      },
+      "23": {
+        "query": "How are some sharks warm-blooded?",
+        "chain_of_thought": [
+          "While most fish are cold-blooded, some sharks are considered partially warm-blooded. This means they can maintain their body temperature slightly above the surrounding water, particularly in specific regions like their brains and muscles.",
+          "Several factors contribute to this phenomenon:",
+          "Counter-current heat exchange: Sharks have a circulatory system called the rete mirabile, where blood vessels carrying warm blood from the core flow close to vessels carrying cold blood from the gills. This allows the warm blood to transfer heat to the cold blood, warming the body.",
+          "Red muscle: Sharks have specialized red muscle tissue with high concentrations of myoglobin, a protein that stores and releases oxygen. This allows them to generate more heat through sustained activity.",
+          "Liver oil: Some shark species have large livers containing oil that acts as an insulator, preventing heat loss.",
+          "Being partially warm-blooded provides these sharks with several advantages:",
+          "Enhanced swimming performance: Warmer muscles allow for faster and more sustained swimming.",
+          "Improved vision and sensory perception: Warmer temperatures improve the function of their eyes and other sensory organs.",
+          "Ability to hunt in deeper, colder waters: They can maintain their body temperature even in deep, cold waters where other fish struggle.",
+          "However, it's important to note that sharks are not fully warm-blooded like mammals and birds. Their ability to regulate their body temperature is limited, and they still rely on the surrounding water for heat regulation to a significant extent."
+        ]
+      },
+      "24": {
+        "query": "Durable medical equipment (DME)",
+        "chain_of_thought": [
+          "Durable medical equipment (DME) refers to medical devices that are intended for long-term use and can withstand repeated use. They are typically used to treat chronic conditions or disabilities and improve the quality of life for patients.",
+          "Examples of DME include:",
+          "Prosthetics and orthotics: Artificial limbs, braces, and supports for limbs.",
+          "Mobility aids: Wheelchairs, walkers, canes, and scooters.",
+          "Respiratory equipment: Oxygen concentrators, nebulizers, and ventilators.",
+          "Bathroom safety equipment: Shower chairs, grab bars, and raised toilet seats.",
+          "Hospital beds and medical supplies: Mattresses, pillows, bedpans, and urinary catheters.",
+          "Medicare and other insurance plans usually cover DME to a certain extent. However, patients may be responsible for some co-payments or deductibles."
+        ]
+      },
+      "25": {
+        "query": "Exons definition biology",
+        "chain_of_thought": [
+          "In biology, exons are the coding regions of a gene. They are the portions of DNA that are transcribed into RNA and ultimately translated into proteins.",
+          "Exons are separated by non-coding regions called introns, which are removed during the splicing process.",
+          "The number of exons in a gene can vary greatly. Some genes have only one exon, while others have many.",
+          "The size and sequence of exons determine the structure and function of the protein that is produced.",
+          "Mutations within exons can lead to genetic disorders"
+        ]
+      },
+      "26": {
+        "query": "Define visceral",
+        "chain_of_thought": [
+          "Visceral refers to something felt deeply or instinctively, often related to internal organs or strong emotions.",
+          "It can be used to describe:",
+          "Physical sensations: The visceral feeling of fear twisting your stomach.",
+          "Strong emotions: The visceral pain of losing a loved one.",
+          "Instinctive reactions: The visceral urge to fight or flight in danger.",
+          "Art and literature: The visceral impact of a powerful image or scene.",
+          "Visceral is often contrasted with intellectual or rational, emphasizing the raw, emotional nature of the experience."
+        ]
+      },
+      "27": {
+        "query": "Tracheids are part of",
+        "chain_of_thought": [
+          "Tracheids are elongated, dead cells that are the main structural components of xylem, the tissue in plants that transports water and dissolved minerals from the roots to the rest of the plant.",
+          "They are long, thin cells with thick, lignified walls that provide support and rigidity to the plant.",
+          "Unlike other water-conducting cells in plants, tracheids have no end walls, allowing water to flow freely through them.",
+          "Tracheids are found in all vascular plants, including ferns, conifers, and flowering plants."
+        ]
+      },
+      "28": {
+        "query": "RSA definition key",
+        "chain_of_thought": [
+          "In cryptography, RSA refers to the Rivest-Shamir-Adleman algorithm, a widely used public-key encryption system.",
+          "It uses two mathematically linked keys, a public key and a private key, to encrypt and decrypt messages.",
+          "The public key is known to everyone and can be used to encrypt messages. However, only the holder of the private key can decrypt messages encrypted with the public key.",
+          "RSA is based on the mathematical difficulty of factoring large prime numbers. It is considered one of the most secure encryption algorithms available and is widely used for secure communication, digital signatures, and other security applications."
+        ]
+      },
+      "29": {
+        "query": "Who formed the Commonwealth of Independent States (CIS)?",
+        "chain_of_thought": [
+          "The Commonwealth of Independent States (CIS) was formed in December 1991 by 11 of the 15 former Soviet republics: Russia, Ukraine, Belarus, Armenia, Azerbaijan, Kazakhstan, Kyrgyzstan, Moldova, Tajikistan, Turkmenistan, and Uzbekistan.",
+          "It was established following the dissolution of the Soviet Union, with the goal of maintaining some economic and political cooperation between the newly independent states.",
+          "Georgia joined the CIS in 1993 but withdrew in 2008.",
+          "The CIS has had limited success in achieving its goals, and its member states have varying levels of commitment to the organization."
+        ]
+      },
+      "30": {
+        "query": "Causes of left ventricular hypertrophy (LVH)",
+        "chain_of_thought": [
+          "Left ventricular hypertrophy (LVH) is a condition where the left ventricle, the main pumping chamber of the heart, thickens and enlarges.",
+          "This can occur due to several factors, including:",
+          "High blood pressure: The most common cause of LVH.",
+          "Aortic stenosis: A narrowing of the aortic valve, which forces the heart to work harder.",
+          "Cardiomyopathy: A disease of the heart muscle.",
+          "Hypertrophic cardiomyopathy: A genetic condition that causes the heart muscle to thicken.",
+          "Other conditions: Diabetes, kidney disease, and certain medications can also contribute to LVH.",
+          "LVH can lead to heart failure and other complications if left untreated."
+        ]
+      },
+      "31": {
+        "query": "LPS laws definition",
+        "chain_of_thought": [
+          "In the United States, LPS laws refer to Lender-Placed Services laws.",
+          "These are laws that allow mortgage lenders to purchase certain services, such as insurance and property taxes, on behalf of borrowers who are delinquent on their payments.",
+          "LPS laws are intended to protect lenders by ensuring that they receive the necessary services to protect their property interests.",
+          "However, these laws have been criticized for being unfair to borrowers, as they can lead to additional charges and fees."
+        ]
+      },
+      "32": {
+        "query": "What are the Three Percenters?",
+        "chain_of_thought": [
+          "The Three Percenters are a loosely organized anti-government militia movement in the United States.",
+          "They take their name from the historical claim that only 3% of American colonists fought in the Revolutionary War against British rule.",
+          "The Three Percenters are often associated with the far-right and have been accused of promoting violence and racism.",
+          "They have been involved in several armed standoffs with law enforcement, including the 2016 occupation of the Malheur National Wildlife Refuge in Oregon."
+        ]
+      },
+      "33": {
+        "query": "Causes of military suicide (continued)",
+        "chain_of_thought": [
+          "Difficulties reintegrating into civilian life: Veterans may experience challenges adjusting to civilian life, including finding employment, housing, and relationships.",
+          "Military culture: The military culture can be stressful and demanding, and it can discourage help-seeking for mental health issues.",
+          "Relationship problems: Military personnel may experience relationship difficulties due to deployments, separations, and other stressors.",
+          "Financial problems: Military personnel may face financial difficulties due to low salaries, debt, and other factors.",
+          "Access to firearms: The ready availability of firearms can increase the risk of suicide.",
+          "Lack of access to mental health care: Many military personnel lack access to timely and adequate mental health care."
+        ]
+      },
+      "34": {
+        "query": "What is Theraderm used for?",
+        "chain_of_thought": [
+          "Theraderm is a brand name for a line of skincare products that contain colloidal oatmeal, a soothing ingredient that helps to relieve itching and irritation.",
+          "Theraderm products are often used to treat conditions such as eczema, psoriasis, and poison ivy.",
+          "They can also be used to help relieve the symptoms of dry skin, sunburn, and insect bites."
+        ]
+      },
+      "35": {
+        "query": "What is Famvir prescribed for?",
+        "chain_of_thought": [
+          "Famvir is the brand name for the medication famciclovir, which is an antiviral medication used to treat herpes zoster (shingles) and recurrent genital herpes.",
+          "It works by preventing the virus from multiplying in the body.",
+          "Famvir is typically prescribed for adults and adolescents over the age of 12."
+        ]
+      },
+      "36": {
+        "query": "Anthropological definition of environment",
+        "chain_of_thought": [
+          "In anthropology, the environment refers to the totality of the physical, social, and cultural factors that surround and influence human populations.",
+          "This includes the natural world, such as the climate, geography, and resources; the built environment, such as cities, towns, and infrastructure; and the social and cultural environment, such as norms, values, and relationships.",
+          "Anthropologists study how humans interact with their environment and how the environment shapes human behavior and culture."
+        ]
+      },
+      "37": {
+        "query": "Axon terminals or synaptic knob definition",
+        "chain_of_thought": [
+          "Axon terminals, also known as synaptic knobs, are the specialized bulb-shaped endings of axons, the long, slender projections of nerve cells.",
+          "These terminals are responsible for transmitting nerve impulses to other cells, such as neurons, muscle cells, or gland cells.",
+          "They contain vesicles filled with neurotransmitters, which are chemicals that are released across the synapse to communicate with other cells.",
+          "The structure of axon terminals allows for the efficient and precise release of neurotransmitters, which is crucial for proper nervous system function."
+        ]
+      },
+      "38": {
+        "query": "Is CDG airport in main Paris?",
+        "chain_of_thought": [
+          "Yes, Charles de Gaulle Airport (CDG) is located in Roissy-en-France, which is a suburb of Paris, France.",
+          "CDG is the largest airport in France and serves as a major hub for Air France and other airlines.",
+          "It is located about 23 kilometers northeast of the city center of Paris."
+        ]
+      },
+      "39": {
+        "query": "Example of a monotonic function",
+        "chain_of_thought": [
+          "A monotonic function is a function that always increases or always decreases.",
+          "Examples of monotonic functions:",
+          "- The exponential function: f(x) = e^x",
+          "- The logarithmic function: f(x) = log(x)",
+          "- The square function: f(x) = x^2",
+          "- The absolute value function: f(x) = |x|"
+        ]
+      },
+      "40": {
+        "query": "Physical description of spruce",
+        "chain_of_thought": [
+          "Spruce trees are tall, slender evergreen trees with a conical shape.",
+          "They have needle-like leaves that are arranged in a spiral pattern around the branches.",
+          "Spruce trees have cones that hang from the branches.",
+          "The cones are usually brown or green and contain seeds.",
+          "Spruce trees are found in cold climates around the world.",
+          "They are an important source of timber and pulpwood."
+        ]
+      },
+      "41": {
+        "query": "Hydrogen is a liquid below what temperature?",
+        "chain_of_thought": [
+          "Hydrogen becomes a liquid below its critical temperature, which is -253 °C or -423.4 °F.",
+          "Below this temperature, hydrogen molecules can no longer overcome the forces of attraction between them and they condense into a liquid.",
+          "Hydrogen is the most abundant element in the universe, but it is very rare on Earth as a liquid."
+        ]
+      },
+      "42": {
+        "query": "Difference between a McDouble and a Double Cheeseburger",
+        "chain_of_thought": [
+          "Both the McDouble and the Double Cheeseburger are McDonald's menu items consisting of two beef patties, cheese, pickles, onions, ketchup, and mustard, all on a hamburger bun.",
+          "Key differences:",
+          "- Price: The McDouble is typically cheaper than the Double Cheeseburger.",
+          "- Patty size: The McDouble has two small beef patties, while the Double Cheeseburger has two larger beef patties.",
+          "- Cheese: The McDouble comes with one slice of cheese, while the Double Cheeseburger comes with two slices of cheese.",
+          "- Calories: The McDouble has fewer calories than the Double Cheeseburger."
+        ]
+      }
+    
+
+  }
+  

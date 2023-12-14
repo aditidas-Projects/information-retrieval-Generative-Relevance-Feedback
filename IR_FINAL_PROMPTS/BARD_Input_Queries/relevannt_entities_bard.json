@@ -1,0 +1,502 @@
+{
+    "0": {
+      "query": "Do goldfish grow?",
+      "terms": [
+        "goldfish",
+        "grow",
+        "size",
+        "age",
+        "tank",
+        "food",
+        "water",
+        "temperature"
+      ]
+    },
+    "1": {
+      "query": "What is Wifi vs Bluetooth?",
+      "terms": [
+        "wifi",
+        "bluetooth",
+        "wireless",
+        "data",
+        "range",
+        "speed",
+        "devices",
+        "applications"
+      ]
+    },
+    "2": {
+      "query": "Why did the US voluntarily enter WW1?",
+      "terms": [
+        "US",
+        "WW1",
+        "voluntary",
+        "reasons",
+        "politics",
+        "economics",
+        "military",
+        "alliances",
+        "Germany"
+      ]
+    },
+    "3": {
+      "query": "Definition of declaratory judgment?",
+      "terms": [
+        "judgment",
+        "court",
+        "rights",
+        "declaration",
+        "remedies",
+        "jurisdiction"
+      ]
+    },
+    "4": {
+      "query": "Right pelvic pain causes?",
+      "terms": [
+        "pain",
+        "right",
+        "pelvis",
+        "endometriosis",
+        "inflammation",
+        "cysts",
+        "pregnancy",
+        "miscarriage",
+        "infection",
+        "muscle",
+        "stress"
+      ]
+    },
+    "5": {
+      "query": "What are the social determinants of health?",
+      "terms": [
+        "health",
+        "socioeconomic",
+        "education",
+        "income",
+        "occupation",
+        "housing",
+        "healthcare",
+        "food",
+        "support",
+        "environment",
+        "racism",
+        "sexism"
+      ]
+    },
+    "6": {
+      "query": "Does Legionella pneumophila cause pneumonia?",
+      "terms": [
+        "Legionella",
+        "pneumonia",
+        "respiratory",
+        "fever",
+        "cough",
+        "shortness",
+        "muscles",
+        "headache",
+        "chest"
+      ]
+    },
+    "7": {
+      "query": "How is the weather in Jamaica?",
+      "terms": [
+        "Jamaica",
+        "weather",
+        "temperature",
+        "rain",
+        "wind",
+        "clouds",
+        "sun"
+      ]
+    },
+    "8": {
+      "query": "Types of dysarthria from cerebral palsy?",
+      "terms": [
+        "dysarthria",
+        "cerebral",
+        "spastic",
+        "athetoid",
+        "ataxic",
+        "mixed",
+        "hyperkinetic",
+        "hypokinetic"
+      ]
+    },
+    "9": {
+        "query": "Who is Robert Gray?",
+        "terms": ["Robert", "Gray"]
+      },
+      "10": {
+        "query": "What types of food can you cook sous vide?",
+        "terms": [
+          "meat",
+          "fish",
+          "poultry",
+          "vegetables",
+          "eggs",
+          "fruit",
+          "dessert"
+        ]
+      },
+      "11": {
+        "query": "How long is the life cycle of a flea?",
+        "terms": [
+          "flea",
+          "egg",
+          "larva",
+          "pupa",
+          "adult",
+          "duration",
+          "environment"
+        ]
+      },
+      "12": {
+        "query": "What can contour plowing reduce?",
+        "terms": [
+          "erosion",
+          "runoff",
+          "sediment",
+          "degradation"
+        ]
+      },
+      "13": {
+        "query": "When was the Salvation Army founded?",
+        "terms": [
+          "Salvation",
+          "Army",
+          "William",
+          "Booth",
+          "1865"
+        ]
+      },
+      "14": {
+        "query": "What is an active margin?",
+        "terms": [
+          "margin",
+          "subduction",
+          "arc",
+          "earthquake",
+          "tectonics"
+        ]
+      },
+      "15": {
+        "query": "Difference between RN and BSN?",
+        "terms": [
+          "RN",
+          "BSN",
+          "education",
+          "practice",
+          "salary"
+        ]
+      },
+      "16": {
+        "query": "Medicare's definition of mechanical ventilation?",
+        "terms": [
+          "Medicare",
+          "ventilation",
+          "device",
+          "criteria",
+          "coverage"
+        ]
+      },
+      "17": {
+        "query": "How to find the midsegment of a trapezoid?",
+        "terms": [
+          "midsegment",
+          "trapezoid",
+          "parallel",
+          "midpoint",
+          "formula",
+          "property"
+        ]
+      },
+
+      "18": {
+        "query": "What is an AML surveillance analyst?",
+        "terms": [
+          "AML",
+          "surveillance",
+          "analyst",
+          "transactions",
+          "monitoring",
+          "investigation",
+          "compliance"
+        ]
+      },
+      "19": {
+        "query": "What is the daily life of Thai people?",
+        "terms": [
+          "Thailand",
+          "people",
+          "culture",
+          "religion",
+          "family",
+          "work",
+          "leisure"
+        ]
+      },
+      "20": {
+        "query": "Definition of a SIGMET?",
+        "terms": [
+          "SIGMET",
+          "weather",
+          "aviation",
+          "phenomenon",
+          "warnings",
+          "information"
+        ]
+      },
+      "21": {
+        "query": "Cost of interior concrete flooring?",
+        "terms": [
+          "concrete",
+          "flooring",
+          "cost",
+          "material",
+          "labor",
+          "installation",
+          "size",
+          "finish"
+        ]
+      },
+      "22": {
+        "query": "What is the most popular food in Switzerland?",
+        "terms": [
+          "Switzerland",
+          "food",
+          "fondue",
+          "chocolate",
+          "cheese",
+          "rosti",
+          "raclette"
+        ]
+      },
+      "23": {
+        "query": "How are some sharks warm-blooded?",
+        "terms": [
+          "sharks",
+          "warm-blooded",
+          "endothermic",
+          "rete mirabile",
+          "countercurrent",
+          "heat",
+          "metabolism"
+        ]
+      },
+      "24": {
+        "query": "What is durable medical equipment consist of?",
+        "terms": [
+          "durable medical equipment",
+          "DME",
+          "wheelchairs",
+          "prosthetics",
+          "oxygen tanks",
+          "hospital beds",
+          "walkers",
+          "nebulizers"
+        ]
+      },
+      "25": {
+        "query": "Exons definition biology?",
+        "terms": [
+          "exons",
+          "genes",
+          "DNA",
+          "protein",
+          "coding",
+          "non-coding",
+          "transcription"
+        ]
+      },
+      "26": {
+        "query": "Define visceral?",
+        "terms": [
+          "visceral",
+          "organs",
+          "internal",
+          "body",
+          "abdomen",
+          "thorax",
+          "brain"
+        ]
+      },
+      "27": {
+        "query": "Tracheids are part of?",
+        "terms": [
+          "tracheids",
+          "xylem",
+          "vascular tissue",
+          "water transport",
+          "plants",
+          "trees"
+        ]
+      },
+        "28": {
+          "query": "RSA definition key?",
+          "terms": [
+            "RSA",
+            "public key",
+            "private key",
+            "encryption",
+            "decryption",
+            "cryptography"
+          ]
+        },
+        "29": {
+          "query": "Who formed the Commonwealth of Independent States?",
+          "terms": [
+            "CIS",
+            "Soviet Union",
+            "Russia",
+            "Ukraine",
+            "Belarus"
+          ]
+        },
+        "30": {
+          "query": "Causes of left ventricular hypertrophy?",
+          "terms": [
+            "LVH",
+            "hypertension",
+            "aortic stenosis",
+            "hypertrophic cardiomyopathy",
+            "valvular heart disease"
+          ]
+        },
+        "31": {
+          "query": "LPS laws definition?",
+          "terms": [
+            "LPS",
+            "laws",
+            "securities",
+            "crowdfunding",
+            "exemptions",
+            "regulations"
+          ]
+        },
+        "32": {
+          "query": "What are the Three Percenters?",
+          "terms": [
+            "Three Percenters",
+            "militia",
+            "anti-government",
+            "far-right",
+            "Second Amendment"
+          ]
+        },
+        "33": {
+          "query": "Causes of military suicide?",
+          "terms": [
+            "PTSD",
+            "depression",
+            "anxiety",
+            "combat stress",
+            "access to firearms",
+            "lack of support"
+          ]
+        },
+        "34": {
+          "query": "What is Theraderm used for?",
+          "terms": [
+            "Theraderm",
+            "skincare",
+            "acne",
+            "rosacea",
+            "eczema",
+            "psoriasis"
+          ]
+        },
+        "35": {
+          "query": "What is Famvir prescribed for?",
+          "terms": [
+            "Famvir",
+            "antiviral",
+            "shingles",
+            "cold sores",
+            "chickenpox",
+            "Epstein-Barr virus"
+          ]
+        },
+        "36": {
+          "query": "Anthropological definition of environment?",
+          "terms": [
+            "environment",
+            "culture",
+            "society",
+            "humans",
+            "adaptation",
+            "resources"
+          ]
+        },
+        "37": {
+            "query": "Axon terminals or synaptic knob definition:",
+            "terms": [
+              "axon",
+              "terminal",
+              "knob",
+              "synapse",
+              "neuron",
+              "neurotransmission",
+              "communication"
+            ]
+          },
+          "38": {
+            "query": "Is CDG airport in main Paris:",
+            "terms": [
+              "CDG",
+              "airport",
+              "Paris",
+              "France",
+              "location"
+            ]
+          },
+          "39": {
+            "query": "Example of monotonic function:",
+            "terms": [
+              "function",
+              "monotonic",
+              "increasing",
+              "decreasing",
+              "constant",
+              "exponential",
+              "logarithmic"
+            ]
+          },
+          "40": {
+            "query": "What is the physical description of spruce:",
+            "terms": [
+              "spruce",
+              "tree",
+              "conifer",
+              "needle-like leaves",
+              "cones",
+              "evergreen",
+              "bark"
+            ]
+          },
+          "41": {
+            "query": "Hydrogen is a liquid below what temperature:",
+            "terms": [
+              "hydrogen",
+              "liquid",
+              "temperature",
+              "boiling point",
+              "freezing point",
+              "Kelvin",
+              "Celsius"
+            ]
+          },
+          "42": {
+            "query": "Difference between McDouble and Double Cheeseburger:",
+            "terms": [
+              "McDouble",
+              "Double Cheeseburger",
+              "McDonald's",
+              "ingredients",
+              "cheese",
+              "price",
+              "size"
+            ]
+          }
+        
+  }
+  

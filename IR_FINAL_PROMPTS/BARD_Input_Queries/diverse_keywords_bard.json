@@ -1,0 +1,541 @@
+{
+    "queries": {
+      "0": {
+        "query": "Do goldfish grow",
+        "keywords": [
+          "lifespan of goldfish",
+          "maximum size of goldfish",
+          "factors affecting goldfish growth",
+          "goldfish growth rate",
+          "caring for growing goldfish",
+          "goldfish tank size requirements"
+        ]
+      },
+      "1": {
+        "query": "What is wifi vs bluetooth",
+        "keywords": [
+          "wifi vs bluetooth advantages and disadvantages",
+          "when to use wifi vs bluetooth",
+          "differences between wifi and bluetooth technology",
+          "connecting devices with wifi and bluetooth",
+          "speed comparison of wifi and bluetooth",
+          "security features of wifi and bluetooth"
+        ]
+      },
+      "2": {
+        "query": "Why did the US voluntarily enter WW1",
+        "keywords": [
+          "US motivations for entering WW1",
+          "key events leading to US involvement in WW1",
+          "Lusitania sinking and its impact on US public opinion",
+          "Germany's unrestricted submarine warfare",
+          "US economic ties to Allied powers",
+          "Woodrow Wilson's perspective on the war"
+        ]
+      },
+      "3": {
+        "query": "Definition declaratory judgment",
+        "keywords": [
+          "legal concept of declaratory judgment",
+          "purpose and function of declaratory judgments",
+          "when to seek a declaratory judgment",
+          "difference between declaratory and injunctive relief",
+          "examples of declaratory judgments",
+          "legal process for obtaining a declaratory judgment"
+        ]
+      },
+      "4": {
+        "query": "Right pelvic pain causes",
+        "keywords": [
+          "medical conditions causing right pelvic pain",
+          "reproductive organ issues and right pelvic pain",
+          "musculoskeletal causes of right pelvic pain",
+          "digestive issues and right pelvic pain",
+          "nerve pain and right pelvic pain",
+          "diagnostic tests for right pelvic pain"
+        ]
+      },
+      "5": {
+        "query": "What are the social determinants of health",
+        "keywords": [
+          "factors influencing population health outcomes",
+          "social inequalities and health disparities",
+          "impact of socioeconomic status on health",
+          "access to healthcare and health outcomes",
+          "role of education and income in health",
+          "public policy interventions for health equity"
+        ]
+      },
+      "6": {
+        "query": "Does Legionella pneumophila cause pneumonia",
+        "keywords": [
+          "characteristics of Legionella pneumophila bacteria",
+          "transmission and infection pathways of Legionella",
+          "types of pneumonia caused by Legionella",
+          "symptoms and diagnosis of Legionella pneumonia",
+          "treatment options for Legionella pneumonia",
+          "preventive measures against Legionella infection"
+        ]
+      },
+      "7": {
+        "query": "How is the weather in Jamaica",
+        "keywords": [
+          "current weather conditions in Jamaica",
+          "weather forecast for Jamaica",
+          "climate zones and variations in Jamaica",
+          "best time to visit Jamaica based on weather",
+          "typical weather patterns in Jamaica",
+          "impact of weather on tourism in Jamaica"
+        ]
+      },
+      "8": {
+          "query": "Types of Dysarthria in Cerebral Palsy",
+          "keywords": [
+            "Spastic dysarthria in cerebral palsy",
+            "Flaccid dysarthria in cerebral palsy",
+            "Ataxic dysarthria in cerebral palsy",
+            "Mixed dysarthria in cerebral palsy",
+            "Hyperkinetic dysarthria in cerebral palsy",
+            "Hypokinetic dysarthria in cerebral palsy",
+            "Speech therapy for dysarthria in cerebral palsy",
+            "Assistive technologies for dysarthria in cerebral palsy"
+          ]
+        },
+        "9": {
+          "query": "Robert Gray",
+          "keywords": [
+            "Who is Robert Gray and what is he known for?",
+            "What are Robert Gray's contributions to (field)?",
+            "Biography of Robert Gray",
+            "Robert Gray's most famous works",
+            "Awards and recognition received by Robert Gray",
+            "Current work and activities of Robert Gray",
+            "Quotes by Robert Gray",
+            "Controversies and criticisms surrounding Robert Gray"
+          ]
+        },
+        "10": {
+          "query": "Sous Vide Cooking",
+          "keywords": [
+            "Foods suitable for sous vide cooking",
+            "Sous vide cooking techniques",
+            "Recipes for sous vide cooking",
+            "Benefits of sous vide cooking",
+            "Equipment needed for sous vide cooking",
+            "Safety considerations for sous vide cooking",
+            "Sous vide cooking vs. traditional cooking methods",
+            "Popular ingredients for sous vide cooking",
+            "Best cuts of meat for sous vide cooking"
+          ]
+        },
+        "11": {
+          "query": "Flea Life Cycle",
+          "keywords": [
+            "Stages of the flea life cycle",
+            "How long does each stage of the flea life cycle last?",
+            "Where do fleas lay their eggs?",
+            "What do fleas eat at each stage of their life cycle?",
+            "How to control flea populations",
+            "Natural ways to get rid of fleas",
+            "Flea prevention tips for pets",
+            "Health risks associated with fleas",
+            "Interesting facts about the flea life cycle"
+          ]
+        },
+        "12": {
+          "query": "Contour Plowing",
+          "keywords": [
+            "Benefits of contour plowing",
+            "What does contour plowing reduce?",
+            "How does contour plowing work?",
+            "When to use contour plowing",
+            "Disadvantages of contour plowing",
+            "Alternatives to contour plowing",
+            "History of contour plowing",
+            "Environmental impact of contour plowing",
+            "Examples of contour plowing"
+          ]
+        },
+        "13": {
+          "query": "Salvation Army",
+          "keywords": [
+            "When and where was the Salvation Army founded?",
+            "Who founded the Salvation Army?",
+            "What is the mission of the Salvation Army?",
+            "What services does the Salvation Army provide?",
+            "How can I support the Salvation Army?",
+            "History of the Salvation Army",
+            "Famous people associated with the Salvation Army",
+            "Controversies surrounding the Salvation Army",
+            "International presence of the Salvation Army",
+            "Future of the Salvation Army"
+          ]
+        },
+        "14": {
+          "query": "Active Margin",
+          "keywords": [
+            "Definition of active margin",
+            "Types of active margins",
+            "Formation of active margins",
+            "Geological processes associated with active margins",
+            "Impact of active margins on the environment",
+            "Economic importance of active margins",
+            "Examples of active margins around the world",
+            "Differences between active and passive margins",
+            "Research and exploration of active margins"
+          ]
+        },
+        "15": {
+          "query": "RN vs. BSN",
+          "keywords": [
+            "Differences between RN and BSN",
+            "Education requirements for RN and BSN",
+            "Scope of practice for RN and BSN",
+            "Career opportunities for RN and BSN",
+            "Salary comparisons for RN and BSN",
+            "Job outlook for RN and BSN",
+            "Skills required for RN and BSN",
+            "Advantages and disadvantages of RN vs. BSN",
+            "Choosing the right path: RN or BSN"
+          ]
+        },
+      "16": {
+        "query": "Medicare's Definition of Mechanical Ventilation",
+        "keywords": [
+          "Medicare criteria for mechanical ventilation coverage",
+          "Types of mechanical ventilation covered by Medicare",
+          "Documentation requirements for mechanical ventilation claims",
+          "Medicare payment rates for mechanical ventilation",
+          "Appeals process for denied mechanical ventilation claims",
+          "Alternatives to mechanical ventilation covered by Medicare",
+          "Resources for patients and families on mechanical ventilation"
+        ]
+      },
+      "17": {
+        "query": "Finding the Midsegment of a Trapezoid",
+        "keywords": [
+          "Formula for calculating the midsegment length of a trapezoid",
+          "Proof of the midsegment theorem",
+          "Applications of the midsegment theorem in real-world scenarios",
+          "Alternative methods for finding the midsegment of a trapezoid",
+          "Online tools and calculators for midsegment calculations",
+          "Historical development of the midsegment theorem",
+          "Common mistakes and misconceptions related to midsegments"
+        ]
+      },
+      "18": {
+        "query": "AML Surveillance Analyst",
+        "keywords": [
+          "Job description and responsibilities of an AML surveillance analyst",
+          "Skills and qualifications required for an AML surveillance analyst",
+          "Salary range and career prospects for AML surveillance analysts",
+          "Typical work environment for an AML surveillance analyst",
+          "Educational requirements for becoming an AML surveillance analyst",
+          "Regulations and laws governing AML surveillance activities",
+          "Professional organizations for AML surveillance analysts",
+          "Day-to-day activities of an AML surveillance analyst"
+        ]
+      },
+      "19": {
+        "query": "Daily Life in Thailand",
+        "keywords": [
+          "Cultural aspects of daily life in Thailand",
+          "Family structure and roles in Thai society",
+          "Traditional Thai food and customs",
+          "Religion and its influence on daily life",
+          "Education system and opportunities in Thailand",
+          "Work and leisure activities of Thai people",
+          "Social issues and challenges faced in Thailand",
+          "Cost of living and standard of living in Thailand",
+          "Holidays and festivals celebrated in Thailand"
+        ]
+      },
+      "20": {
+        "query": "Definition of a SIGMET",
+        "keywords": [
+          "International Civil Aviation Organization (ICAO) definition of a SIGMET",
+          "Types of weather phenomena covered by SIGMETs",
+          "Issuing authorities and dissemination channels for SIGMETs",
+          "Interpretation and use of SIGMET information by pilots",
+          "Aviation safety concerns related to SIGMETs",
+          "Historical examples of significant SIGMET events",
+          "Online resources for accessing and interpreting SIGMETs",
+          "Future advancements in SIGMET technology"
+        ]
+      },
+      "21": {
+        "query": "Cost of Interior Concrete Flooring",
+        "keywords": [
+          "Factors influencing the cost of interior concrete flooring",
+          "Average price per square foot for different types of concrete floors",
+          "Installation costs associated with concrete flooring",
+          "Labor rates and materials needed for concrete flooring",
+          "DIY vs. professional installation costs",
+          "Comparison of concrete flooring costs to other flooring options",
+          "Financing options for concrete flooring projects",
+          "Cost-saving tips for concrete flooring installations"
+        ]
+      },
+      "22": {
+        "query": "Most Popular Food in Switzerland",
+        "keywords": [
+          "Regional variations in popular Swiss cuisine",
+          "Traditional Swiss dishes and their ingredients",
+          "Unique flavors and cooking methods used in Swiss cuisine",
+          "Role of cheese and chocolate in Swiss food culture",
+          "Popular street food and snacks in Switzerland",
+          "Restaurants and cafes serving authentic Swiss cuisine",
+          "Cooking classes and culinary experiences for tourists",
+          "History and evolution of Swiss food culture"
+        ]
+      },
+      "23": {
+        "query": "How Some Sharks are Warm-Blooded",
+        "keywords": [
+          "Physiological mechanisms enabling warm-bloodedness in sharks",
+          "Advantages of being a warm-blooded shark",
+          "Examples of shark species with warm-blooded characteristics",
+          "Evolutionary adaptations related to warm-bloodedness in sharks",
+          "Comparison of warm-blooded sharks to other fish",
+          "Environmental factors influencing warm-bloodedness in sharks",
+          "Ongoing research and discoveries about warm-blooded sharks",
+          "Potential implications of warm-bloodedness for shark conservation"
+        ]
+      },
+    "24": {
+        "query": "Durable Medical Equipment",
+        "keywords": [
+          "Types of durable medical equipment (DME)",
+          "Common materials used in DME",
+          "Benefits of using DME",
+          "Insurance coverage for DME",
+          "How to obtain DME",
+          "Safety precautions when using DME",
+          "Caring for and maintaining DME",
+          "Financial assistance programs for DME",
+          "Future advancements in DME technology"
+        ]
+      },
+      "25": {
+        "query": "Exons",
+        "keywords": [
+          "Difference between exons and introns",
+          "Function of exons in protein synthesis",
+          "Genetic disorders related to exons",
+          "Regulation of exon expression",
+          "Role of exons in evolution",
+          "Techniques for identifying exons",
+          "Future research directions in exon biology"
+        ]
+      },
+      "26": {
+        "query": "Visceral",
+        "keywords": [
+          "Visceral organs and their functions",
+          "Visceral sensitivity and pain",
+          "Visceral reflexes and their role in health and disease",
+          "Psychological and emotional aspects of the visceral system",
+          "The role of the gut microbiome in visceral health",
+          "Techniques for imaging and assessing the visceral system",
+          "Treatment options for visceral disorders"
+        ]
+      },
+      "27": {
+        "query": "Tracheids",
+        "keywords": [
+          "Structure and function of tracheids",
+          "Comparison of tracheids and xylem vessels",
+          "Role of tracheids in water transport",
+          "Adaptations of tracheids to different environments",
+          "Evolution of tracheids",
+          "Techniques for studying tracheids",
+          "Importance of tracheids in plant biology"
+        ]
+      },
+      "28": {
+        "query": "RSA Key",
+        "keywords": [
+          "RSA algorithm and its applications",
+          "Public-key vs. private-key cryptography",
+          "RSA key generation and distribution",
+          "Security considerations for RSA keys",
+          "Quantum cryptography and its impact on RSA",
+          "Alternatives to RSA for public-key encryption",
+          "Future of RSA key technology"
+        ]
+      },
+      "29": {
+        "query": "Commonwealth of Independent States",
+        "keywords": [
+          "History and formation of the CIS",
+          "Member states of the CIS",
+          "Goals and objectives of the CIS",
+          "Political and economic cooperation within the CIS",
+          "Challenges and controversies facing the CIS",
+          "Future of the CIS in a changing world order"
+        ]
+      },
+      "30": {
+        "query": "Left Ventricular Hypertrophy (LVH)",
+        "keywords": [
+          "Symptoms and diagnosis of LVH",
+          "Treatment options for LVH",
+          "Prognosis and complications of LVH",
+          "Prevention of LVH",
+          "Latest research and developments in LVH treatment",
+          "Role of lifestyle changes in managing LVH"
+        ]
+      },
+      "31": {
+        "query": "LPS Laws",
+        "keywords": [
+          "History and development of LPS laws",
+          "Significance of LPS laws in understanding bacteriophages",
+          "Applications of LPS laws in biotechnology",
+          "Current research on LPS laws",
+          "Future directions in bacteriophage research"
+        ]
+      },
+      "32": {
+        "query": "Three Percenters",
+        "keywords": [
+          "History and ideology of the Three Percenters",
+          "Symbolism and rhetoric used by the Three Percenters",
+          "Activities and affiliations of the Three Percenters",
+          "Controversies surrounding the Three Percenters",
+          "Government response to the Three Percenters",
+          "Potential dangers of the Three Percenters",
+          "Anti-government extremism and its impact on society"
+        ]
+      },
+      "33": {
+        "query": "Military Suicide",
+        "keywords": [
+          "Risk factors for military suicide",
+          "Warning signs of suicide in military personnel",
+          "Suicide prevention programs for military personnel",
+          "Mental health resources for military personnel",
+          "Impact of military service on mental health",
+          "Comparison of suicide rates in military vs. civilian populations",
+          "Strategies for reducing military suicide rates",
+          "Role of family and friends in supporting military personnel",
+          "Public awareness campaigns about military suicide"
+        ]
+      },
+      "34": {
+        "query": "Theraderm",
+        "keywords": [
+          "What is Theraderm used for?",
+          "Benefits of using Theraderm",
+          "Side effects of Theraderm",
+          "How to use Theraderm",
+          "Reviews of Theraderm",
+          "Comparison of Theraderm to other similar products",
+          "Cost of Theraderm",
+          "Where to buy Theraderm"
+        ]
+      },
+      "35": {
+        "query": "Famvir",
+        "keywords": [
+          "What is Famvir prescribed for?",
+          "How does Famvir work?",
+          "Dosage and administration of Famvir",
+          "Side effects of Famvir",
+          "Warnings and precautions for Famvir",
+          "Drug interactions with Famvir",
+          "Cost of Famvir",
+          "Alternatives to Famvir"
+        ]
+      },
+      "36": {
+        "query": "Anthropological Definition of Environment",
+        "keywords": [
+          "How anthropologists define the environment",
+          "The relationship between humans and the environment",
+          "Cultural variations in environmental perception",
+          "The impact of human activities on the environment",
+          "Environmental sustainability and anthropology",
+          "Case studies of human-environment interactions",
+          "Anthropological perspectives on environmental issues",
+          "Decolonizing environmentalism"
+        ]
+      },
+      "37": {
+        "query": "Axon Terminal vs. Synaptic Knob",
+        "keywords": [
+          "Definition and structure of axon terminals",
+          "Definition and structure of synaptic knobs",
+          "Function of axon terminals and synaptic knobs",
+          "Role of axon terminals and synaptic knobs in neurotransmission",
+          "Differences between axon terminals and synaptic knobs",
+          "Diseases and disorders affecting axon terminals and synaptic knobs",
+          "Research on axon terminals and synaptic knobs"
+        ]
+      },
+      "38": {
+        "query": "CDG Airport in Paris",
+        "keywords": [
+          "Location of Charles de Gaulle Airport (CDG) in Paris",
+          "Transportation options to and from CDG Airport",
+          "Terminal information and amenities at CDG Airport",
+          "Airlines operating at CDG Airport",
+          "Parking options at CDG Airport",
+          "Lounges at CDG Airport",
+          "Shopping and dining options at CDG Airport",
+          "Tips for traveling to and from CDG Airport"
+        ]
+      },
+      "39": {
+        "query": "Monotonic Function",
+        "keywords": [
+          "Definition of a monotonic function",
+          "Types of monotonic functions: increasing and decreasing",
+          "Properties of monotonic functions",
+          "Examples of monotonic functions",
+          "Applications of monotonic functions in mathematics and other fields",
+          "Visualizing monotonic functions with graphs",
+          "Proving monotonicity of functions"
+        ]
+      },
+      "40": {
+        "query": "Physical Description of Spruce",
+        "keywords": [
+          "Appearance of spruce trees",
+          "Different types of spruce trees",
+          "Size and shape of spruce trees",
+          "Needles and cones of spruce trees",
+          "Bark of spruce trees",
+          "Habitat and range of spruce trees",
+          "Uses of spruce trees"
+        ]
+      },
+      "41": {
+        "query": "Liquid Hydrogen Temperature",
+        "keywords": [
+          "Properties of hydrogen",
+          "Boiling point of hydrogen",
+          "Melting point of hydrogen",
+          "Triple point of hydrogen",
+          "Critical point of hydrogen",
+          "Liquid hydrogen storage and transportation",
+          "Uses of liquid hydrogen",
+          "Safety considerations with liquid hydrogen"
+        ]
+      },
+      "42": {
+        "query": "McDouble vs. Double Cheeseburger",
+        "keywords": [
+          "Ingredients in a McDouble",
+          "Ingredients in a Double Cheeseburger",
+          "Nutritional information for a McDouble",
+          "Nutritional information for a Double Cheeseburger",
+          "Cost of a McDouble",
+          "Cost of a Double Cheeseburger",
+          "Comparison of taste and texture"
+        ]
+      }
+    }
+  }  
+    
+  

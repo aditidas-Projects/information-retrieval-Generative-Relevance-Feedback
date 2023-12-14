@@ -1,0 +1,371 @@
+{
+    "0": {
+      "facts": [
+        "Goldfish can grow up to 18 inches long.",
+        "Goldfish are cold-water fish and can live for 10-20 years with proper care.",
+        "Goldfish come in a variety of colors, including orange, white, black, and red.",
+        "Goldfish have a good memory and can recognize their owners.",
+        "Goldfish are social creatures and do best when kept with other goldfish."
+      ]
+    },
+    "1": {
+      "facts": [
+        "Wi-Fi is a wireless networking technology that uses radio waves to transmit data.",
+        "Bluetooth is a wireless networking technology that uses short-range radio waves to connect devices.",
+        "Wi-Fi is typically used for longer-range applications, such as connecting to the internet or streaming video.",
+        "Bluetooth is typically used for shorter-range applications, such as connecting to headphones or speakers.",
+        "Both Wi-Fi and Bluetooth are popular technologies for connecting devices wirelessly."
+      ]
+    },
+    "2": {
+      "facts": [
+        "The sinking of the Lusitania was one of the reasons the US entered WWI.",
+        "The Zimmermann Telegram was a message intercepted by British intelligence that convinced the US that Germany was planning to attack Mexico and encourage them to declare war on the US.",
+        "The resumption of unrestricted submarine warfare by Germany was another factor that led the US to enter the war.",
+        "Public opinion in the US was increasingly turning against Germany in the months leading up to the US declaration of war.",
+        "President Woodrow Wilson believed that the US had a moral obligation to enter the war to help defeat Germany and make the world safe for democracy."
+      ]
+    },
+    "3": {
+      "facts": [
+        "A declaratory judgment is a court order that declares the rights and liabilities of the parties in a dispute.",
+        "It is not a judgment for money damages.",
+        "Declaratory judgments can be used to resolve legal questions before a dispute arises.",
+        "They can also be used to clarify the meaning of a contract or statute.",
+        "Declaratory judgments are a useful tool for resolving legal disputes efficiently and effectively."
+      ]
+    },
+    "4": {
+      "facts": [
+        "Possible causes of right pelvic pain include appendicitis, endometriosis, ectopic pregnancy, ovarian cyst, and pelvic inflammatory disease (PID).",
+        "Other possible causes include sexually transmitted infections (STIs), urinary tract infections (UTIs), and muscle strains.",
+        "It is important to see a doctor if you are experiencing right pelvic pain."
+      ]
+    },
+    "5": {
+      "facts": [
+        "The social determinants of health include income and wealth, education, employment, housing, transportation, food security, access to healthcare, social support, and discrimination.",
+        "These factors have a significant impact on people's health and well-being.",
+        "Addressing the social determinants of health is essential to achieving health equity.",
+        "There are a number of things that can be done to address the social determinants of health, such as investing in education, creating jobs, and providing affordable housing."
+      ]
+    },
+    "6": {
+      "facts": [
+        "Yes, Legionella pneumophila can cause pneumonia, also known as Legionnaires' disease.",
+        "Legionnaires' disease is a serious illness that can be fatal.",
+        "It is important to be aware of the risks of Legionnaires' disease and to take steps to prevent it."
+      ]
+    },
+    "7": {
+      "facts": [
+        "The weather in Jamaica is tropical, with an average temperature of around 80 degrees Fahrenheit.",
+        "The island is subject to hurricanes in the summer and fall.",
+        "Jamaica is a popular tourist destination, known for its beaches, rainforests, and mountains.",
+        "The island is also home to a diverse culture and a rich history."
+      ]
+    },
+    "8": {
+      "facts": [
+        "Cerebral palsy can cause several types of dysarthria, including spastic dysarthria, athetoid dysarthria, ataxic dysarthria, and mixed dysarthria.",
+        "Spastic dysarthria is the most common type of dysarthria. It is caused by muscle stiffness and weakness.",
+        "Athetoid dysarthria is caused by involuntary muscle movements.",
+        "Ataxic dysarthria is caused by problems with muscle coordination.",
+        "Mixed dysarthria is a combination of two or more of the other types of dysarthria."
+      ]
+    },
+    "9": {
+        "facts": [
+          "Robert Gray was an American explorer.",
+          "He was the first American to circumnavigate the globe.",
+          "He discovered the Columbia River.",
+          "He is considered one of the most important explorers in American history."
+        ]
+      },
+      "10": {
+        "facts": [
+          "You can cook many types of food sous vide, including steak, chicken, fish, vegetables, and eggs.",
+          "Sous vide cooking is a precise cooking method that involves cooking food in a vacuum-sealed bag in a water bath.",
+          "This method ensures that food is cooked to the desired temperature evenly throughout.",
+          "Sous vide cooking is becoming increasingly popular in restaurants and homes."
+        ]
+      },
+      "11": {
+        "facts": [
+          "The life cycle of a flea is about 100 days.",
+          "Fleas lay eggs that hatch into larvae.",
+          "The larvae feed on organic matter and then spin cocoons.",
+          "The adult fleas emerge from the cocoons and begin to feed on blood.",
+          "Fleas can transmit diseases to humans and animals."
+        ]
+      },
+      "12": {
+        "facts": [
+          "Contour plowing can reduce soil erosion by creating ridges on the land that trap water and prevent it from running off.",
+          "This is important for preserving topsoil and preventing the pollution of waterways.",
+          "Contour plowing is often used in conjunction with other conservation practices, such as terracing and cover cropping.",
+          "These practices can help to improve soil quality and increase crop yields."
+        ]
+      },
+      "13": {
+        "facts": [
+          "The Salvation Army was founded in 1865.",
+          "It is a Christian church and international charitable organization.",
+          "The Salvation Army provides a wide range of social services, including food assistance, shelter, and disaster relief.",
+          "It is active in over 130 countries around the world."
+        ]
+      },
+      "14": {
+        "facts": [
+          "An active margin is a region where the Earth's tectonic plates are moving apart.",
+          "This can lead to earthquakes, volcanic eruptions, and mountain building.",
+          "Active margins are found along the Pacific Ring of Fire and the Mid-Atlantic Ridge.",
+          "They are important for the creation of new ocean crust and the recycling of old crust."
+        ]
+      },
+      "15": {
+        "facts": [
+          "A registered nurse (RN) has completed a nursing program and passed the National Council Licensure Examination for Registered Nurses (NCLEX-RN).",
+          "They are qualified to provide basic nursing care, such as administering medications, taking vital signs, and providing emotional support.",
+          "A Bachelor of Science in Nursing (BSN) is a four-year degree that prepares nurses for leadership and advanced practice roles.",
+          "BSN nurses are qualified to provide more complex care, such as managing chronic diseases, coordinating care with other healthcare providers, and conducting research."
+        ]
+      },
+      "16": {
+        "facts": [
+          "Medicare defines mechanical ventilation as the provision of positive pressure ventilation to a patient who is unable to breathe on their own.",
+          "This can be done using a ventilator, which is a machine that helps to force air into the lungs.",
+          "Mechanical ventilation is often used to treat patients with respiratory failure, pneumonia, and other lung conditions.",
+          "It can be a life-saving treatment, but it can also have serious side effects."
+        ]
+      },
+      "17": {
+        "facts": [
+          "The midsegment of a trapezoid is the line segment that connects the midpoints of the two bases.",
+          "It is parallel to the bases and is equal to half the sum of the bases.",
+          "The midsegment of a trapezoid can be used to divide the trapezoid into two congruent trapezoids."
+        ]
+      },
+      "18": {
+        "facts": [
+          "An AML (anti-money laundering) surveillance analyst is responsible for monitoring financial transactions for suspicious activity that may indicate money laundering.",
+          "They use a variety of tools and techniques to identify suspicious transactions, such as transaction monitoring software and data analysis.",
+          "AML surveillance analysts play an important role in preventing money laundering and protecting the financial system."
+        ]
+      },
+      "19": {
+        "facts": [
+          "Most Thai people wake up early and start their day with a bowl of rice porridge.",
+          "They typically work long hours, often six days a week.",
+          "After work, they may spend time with their families or friends, or they may relax at home.",
+          "Thai people also enjoy spending time outdoors, and they often participate in traditional festivals and ceremonies.",
+          "Family and community are important values in Thai culture."
+        ]
+      },
+      "20": {
+        "facts": [
+          "A SIGMET is a weather advisory issued by a meteorological agency to warn of potentially hazardous weather conditions that may affect aviation.",
+          "These conditions can include severe thunderstorms, icing, turbulence, and volcanic ash.",
+          "SIGMETs are issued for specific areas and are valid for a limited time.",
+          "Pilots are required to check for SIGMETs before taking off and while en route.",
+          "SIGMETs help to ensure the safety of air travel."
+        ]
+      },
+      "21": {
+        "facts": [
+          "The cost of interior concrete flooring can vary depending on the size and complexity of the project, the type of concrete used, and the labor costs involved.",
+          "Generally, it is more expensive than other flooring options such as carpet or laminate.",
+          "However, it is a durable and long-lasting option that can last for decades with proper care.",
+          "Concrete flooring is also a good choice for homeowners who are looking for an eco-friendly option, as it is made from recycled materials.",
+          "The specific cost of your project can be determined by consulting with a contractor."
+        ]
+      },
+      "22": {
+        "facts": [
+          "Fondue is one of the most popular foods in Switzerland.",
+          "It is a melted cheese dish that is typically served with bread, potatoes, and vegetables.",
+          "Other popular Swiss dishes include raclette, rösti, and chocolate.",
+          "Switzerland is known for its high-quality dairy products, and these are often featured in its cuisine.",
+          "Swiss food is typically hearty and filling, and it is often served with a glass of wine."
+        ]
+      },
+      "23": {
+        "facts": [
+          "Some sharks are warm-blooded because they have a specialized organ called the rete mirabile.",
+          "The rete mirabile helps to conserve heat by allowing the shark to warm its blood before it reaches its gills.",
+          "This allows the shark to maintain a higher body temperature than the surrounding water, which gives it an advantage in hunting and avoiding predators.",
+          "Not all sharks are warm-blooded, however. Only certain species, such as the mako shark and the great white shark, have this adaptation.",
+          "Warm-blooded sharks are able to travel to colder waters than their cold-blooded counterparts."
+        ]
+      },
+      "24": {
+        "facts": [
+          "Durable medical equipment (DME) is defined by Medicare as any medical equipment that is used to:",
+          "* Improve the function of a malformed body part",
+          "* Treat or slow the progression of an illness or injury",
+          "* Assist an individual with disabilities in performing activities of daily living",
+          "Some examples of DME include wheelchairs, walkers, crutches, oxygen tanks, and hospital beds.",
+          "DME is typically covered by Medicare Part B, which is the medical insurance portion of Medicare."
+        ]
+      },
+      "25": {
+        "facts": [
+          "In biology, an exon is a region of a gene that contains coding sequences for proteins.",
+          "Exons are separated by non-coding regions called introns.",
+          "During gene expression, the introns are removed and the exons are spliced together to form a mature messenger RNA (mRNA) molecule.",
+          "The mRNA molecule is then used to translate the protein sequence encoded by the gene.",
+          "Exons are essential for protein production, and mutations in exons can lead to genetic diseases."
+        ]
+      },
+      "26": {
+        "facts": [
+          "Visceral is defined as relating to the internal organs of the body, especially those of the abdomen.",
+          "Visceral refers to the deepest layer of the body.",
+          "Visceral organs are responsible for a variety of functions, including digestion, absorption, and excretion.",
+          "The visceral organs are protected by the ribs and the spine.",
+          "Visceral pain is pain that originates from the visceral organs."
+        ]
+      },
+      "27": {
+        "facts": [
+          "Tracheids are elongated, tapering cells with thick, lignified walls.",
+          "They are dead at maturity and lack cytoplasm.",
+          "Tracheids are connected end-to-end by pits that allow for the passage of water and dissolved minerals.",
+          "They are the main water-conducting cells in xylem tissue in non-flowering plants and gymnosperms.",
+          "In flowering plants, tracheids are supplemented by vessels, which are more efficient at water transport."
+        ]
+      },
+      "28": {
+        "facts": [
+          "An RSA key pair consists of a public key and a private key.",
+          "The public key is used to encrypt messages, and only the private key can decrypt them.",
+          "This makes RSA encryption a very secure way to communicate.",
+          "RSA keys are used in a variety of applications, including secure websites, email encryption, and digital signatures.",
+          "The security of RSA encryption depends on the length of the keys. Longer keys are more secure, but they also take longer to generate and use."
+        ]
+      },
+      "29": {
+        "facts": [
+          "The Commonwealth of Independent States (CIS) was formed on December 8, 1991, by the leaders of 11 former Soviet republics.",
+          "The founding members were Armenia, Azerbaijan, Belarus, Kazakhstan, Kyrgyzstan, Moldova, Russia, Tajikistan, Turkmenistan, Ukraine, and Uzbekistan.",
+          "Georgia joined the CIS in 1993.",
+          "The main goals of the CIS were to promote cooperation between the former Soviet republics in areas such as economics, security, and culture.",
+          "However, the CIS has been plagued by disagreements between member states, and it has not been as successful as some had hoped."
+        ]
+      },
+      "30": {
+        "facts": [
+          "Left ventricular hypertrophy (LVH) is a thickening of the walls of the left ventricle, the lower chamber of the heart that pumps blood to the body.",
+          "LVH can be caused by several factors, including high blood pressure, aortic valve disease, and cardiomyopathy.",
+          "LVH can lead to heart failure, a condition in which the heart is unable to pump enough blood to the body.",
+          "Symptoms of LVH can include shortness of breath, fatigue, and chest pain.",
+          "Treatment for LVH depends on the underlying cause."
+        ]
+      },
+      "31": {
+        "facts": [
+          "Least Publishable Unit (LPU) laws are a set of guidelines that encourage researchers to publish their findings in reputable scientific journals.",
+          "These guidelines discourage the publication of research in predatory journals, which are journals that charge authors to publish their work without providing adequate peer review.",
+          "LPU laws vary by country, but they typically include criteria such as the journal's impact factor, the editorial board's expertise, and the journal's publication ethics.",
+          "Adherence to LPU laws helps to ensure the quality and integrity of scientific research.",
+          "The goal of LPU laws is to promote the publication of high-quality research that can be used to improve public health and advance scientific knowledge."
+        ]
+      },
+      "32": {
+        "facts": [
+          "The Three Percenters are an American anti-government militia movement.",
+          "The group's name refers to the false claim that only 3% of American colonists fought in the Revolutionary War.",
+          "The Three Percenters believe that the government is becoming increasingly tyrannical and that it is their duty to resist it.",
+          "They often hold rallies and protests, and some members have been involved in violence.",
+          "The Three Percenters are classified as a hate group by the Southern Poverty Law Center."
+        ]
+      },
+      "33": {
+        "facts": [
+          "Military suicide is a complex issue with a number of contributing factors.",
+          "These factors can include combat stress, post-traumatic stress disorder (PTSD), access to firearms, and a lack of social support.",
+          "Military personnel are at a higher risk of suicide than the general population, and the rate of suicide has been increasing in recent years.",
+          "There are a number of programs and resources available to help prevent military suicide, including mental health services, peer support groups, and suicide prevention hotlines.",
+          "More research is needed to better understand the causes of military suicide and to develop more effective prevention strategies."
+        ]
+      },
+      "34": {
+        "facts": [
+          "Theraderm is a brand of skincare products marketed towards individuals with acne, eczema, and psoriasis.",
+          "Theraderm products contain a variety of ingredients, including sulfur, salicylic acid, and zinc oxide.",
+          "These ingredients help to reduce inflammation, kill bacteria, and unclog pores.",
+          "Some users have reported experiencing side effects from Theraderm products, such as dryness, irritation, and burning.",
+          "It is important to talk to a doctor or dermatologist before using Theraderm products to ensure that they are safe and appropriate for your skin."
+        ]
+      },
+      "35": {
+        "facts": [
+          "Famvir is a prescription antiviral medication used to treat shingles and genital herpes.",
+          "The active ingredient in Famvir is famciclovir.",
+          "Famciclovir works by interfering with the replication of the herpes virus.",
+          "Famvir can help to shorten the duration and severity of shingles and genital herpes outbreaks.",
+          "Famvir is typically well-tolerated, but some users may experience side effects such as nausea, vomiting, and headache."
+        ]
+      },
+      "36": {
+        "facts": [
+          "In anthropology, the environment refers to the sum of all the external factors that influence the life of an individual or group.",
+          "These factors can include the physical environment, such as the climate and terrain, and the social environment, such as the culture and norms of a society.",
+          "The environment plays a significant role in shaping human behavior and development.",
+          "Anthropologists study the environment to understand how it affects humans and how humans affect the environment.",
+          "Anthropological studies of the environment can help us to develop more sustainable practices and to better understand the impact of human activities on the planet."
+        ]
+      },
+      "37": {
+        "facts": [
+          "Axon terminals, also known as synaptic knobs, are specialized structures located at the end of axons.",
+          "They are responsible for releasing neurotransmitters, which are chemicals that allow neurons to communicate with each other.",
+          "Axon terminals contain vesicles, which are small sacs that store neurotransmitters.",
+          "When an action potential reaches an axon terminal, it triggers the release of neurotransmitters into the synaptic cleft, the space between two neurons.",
+          "Neurotransmitters bind to receptors on the dendrites of other neurons, and this binding can trigger an action potential in the receiving neuron."
+        ]
+      },
+      "38": {
+        "facts": [
+          "Yes, Charles de Gaulle Airport (CDG) is the main airport in Paris, France.",
+          "It is located about 23 kilometers northeast of the city center.",
+          "CDG is the second busiest airport in Europe and serves over 70 million passengers each year.",
+          "The airport has four terminals and offers flights to destinations all over the world.",
+          "CDG is connected to Paris by a variety of transportation options, including the RER B train line, the Roissybus, and taxis."
+        ]
+      },
+      "39": {
+        "facts": [
+          "A monotonic function is a function that either always increases or always decreases.",
+          "In other words, the output of a monotonic function will always be either greater than or less than the input.",
+          "There are many examples of monotonic functions, including the natural logarithm function, the exponential function, and the square root function.",
+          "Monotonic functions are used in a variety of mathematical and scientific applications, such as calculus, economics, and physics."
+        ]
+      },
+      "40": {
+        "facts": [
+          "Spruce trees are a type of coniferous tree that is known for its tall, slender shape and its conical crown.",
+          "Spruce trees have needles that are arranged in a spiral pattern around the branches.",
+          "The needles are dark green in color and have a sharp point.",
+          "Spruce trees are found in many parts of the world, including North America, Europe, and Asia.",
+          "Spruce trees are used for a variety of purposes, including lumber, paper production, and Christmas trees."
+        ]
+      },
+      "41": {
+        "facts": [
+          "Hydrogen is used as a fuel in rockets because it has a high energy density and produces only water vapor as a byproduct.",
+          "Liquid hydrogen is also used in fuel cells, which generate electricity through a chemical reaction between hydrogen and oxygen.",
+          "However, liquid hydrogen is difficult to store and transport because it is very cold and evaporates easily.",
+          "Researchers are working on developing new technologies for storing and transporting liquid hydrogen so that it can be used more widely as a clean and sustainable fuel."
+        ]
+      },
+      "42": {
+        "facts": [
+          "The McDouble and the Double Cheeseburger are both hamburgers offered by the McDonald's fast-food restaurant chain.",
+          "Both burgers contain two beef patties, cheese, pickles, onions, and ketchup.",
+          "The McDouble is a smaller burger with a lower price point, while the Double Cheeseburger is a larger burger with a higher price point.",
+          "The McDouble and the Double Cheeseburger are two of the most popular menu items at McDonald's.",
+          "According to McDonald's, the McDouble was first introduced in 1997, while the Double Cheeseburger has been on the menu since the chain's inception in 1940."
+        ]
+      }
+    }
