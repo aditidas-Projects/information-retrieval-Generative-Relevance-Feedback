@@ -1,4 +1,4 @@
-# information-retrieval-Generative-Relevance-Feedback
+# Information-Retrieval-Generative-Relevance-Feedback
 This provides the code and input files for our endsem project on Generative Relevance Feedback.
 
 Please make sure to go through the directory paths if using it and make sure that you have the correct directory for the files highlighted in the image along with this repository.
